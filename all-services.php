@@ -104,15 +104,17 @@
 				<!-- SERVICE BOX #1 -->
 				<div class="col-sm-6 col-lg-3">
 					<div class="sbox-2 wow fadeInUp" data-wow-delay="0.4s">
-						<a href="#">
+						<a href="comprehensive.php ">
 
 							<!-- Icon  -->
-							<div class="sbox-2-icon">
-								<!-- <img class="img-80" src="images/icons/braces.png" alt="service-icon" /> -->
+							<div class="">
+							 <img class="img-80" src="images/icons/braces.png" alt="service-icon" /> 
 							</div>
 
 							<!-- Title -->
-							<h5 class="h5-sm">Tooth Braces</h5>
+							<h5 class="h5-sm">Comprehensive Consultation</h5>
+							<p>Mirror</p>
+							<p>Probe</p>
 
 						</a>
 					</div>
@@ -122,15 +124,21 @@
 				<!-- SERVICE BOX #2 -->
 				<div class="col-sm-6 col-lg-3">
 					<div class="sbox-2 wow fadeInUp" data-wow-delay="0.6s">
-						<a href="#">
+						<a href="dental_implants.php">
 
-							<!-- Icon  -->
-							<div class="sbox-2-icon">
-								<!-- <img class="img-80" src="images/icons/implant.png" alt="service-icon" /> -->
-							</div>
+							<img class="img-80" src="images\Dentalive-images\Dental-Implant-01.png" alt="service-icon" />
+
+
+
+							<h5 class="h5-sm ">Dental Implants</h5>
+							<p>Single tooth implant</p>
+							<p>Implant supported bridge</p>
+							<p>Implant supported over dentures</p>
+							<p>Minimal Invasive guided Implants </p>
 
 							<!-- Title -->
-							<h5 class="h5-sm ">Dental Implants</h5>
+
+
 
 						</a>
 					</div>
@@ -140,15 +148,21 @@
 				<!-- SERVICE BOX #3 -->
 				<div class="col-sm-6 col-lg-3">
 					<div class="sbox-2 wow fadeInUp" data-wow-delay="0.8s">
-						<a href="#">
+						<a href="Gum_treatment.php">
 
 							<!-- Icon  -->
-							<div class="sbox-2-icon">
-								<!-- <img class="img-80" src="images/icons/broken.png" alt="service-icon" /> -->
+							<div class="">
+								<img class="img-80" src="images/icons/broken.png" alt="service-icon" />
 							</div>
 
 							<!-- Title -->
-							<h5 class="h5-sm ">Gum Care</h5>
+							<h5 class="h5-sm ">Gum Treatment</h5>
+							<p>Scaling and polishing</p>
+							<p>Flap surgeries</p>
+							<p>Root planing & curettage</p>
+							<p>Gum graft surgery</p>
+							<p>Bone Grafts</p>
+
 
 						</a>
 					</div>
@@ -158,16 +172,22 @@
 				<!-- SERVICE BOX #4 -->
 				<div class="col-sm-6 col-lg-3">
 					<div class="sbox-2 wow fadeInUp" data-wow-delay="1s">
-						<a href="#">
+						<a href="Orthodontic.php">
 
 							<!-- Icon  -->
-							<div class="sbox-2-icon">
-								<!-- <img class="img-80" src="images/icons/calculus.png" alt="service-icon" /> -->
+							<div class="">
+								<img class="img-80" src="images/icons/calculus.png" alt="service-icon" />
 							</div>
 
 							<!-- Title -->
-							<h5 class="h5-sm">Orthodontic treatment
-							</h5>
+							<h5 class="h5-sm">Orthodontic treatment</h5>
+							<p>Invisible / Clear</p>
+							<p>Metallic braces</p>
+							<p>Ceramic braces</p>
+							<p>Self ligating braces</p>
+							<p>Lingual braces</p>
+							<p>Implants supported braces</p>
+
 
 						</a>
 					</div>
@@ -177,15 +197,19 @@
 				<!-- SERVICE BOX #5 -->
 				<div class="col-sm-6 col-lg-3">
 					<div class="sbox-2 wow fadeInUp" data-wow-delay="0.4s">
-						<a href="#">
+						<a href="General_dentistry.php">
 
 							<!-- Icon  -->
-							<div class="sbox-2-icon">
-								<!-- <img class="img-80" src="images/icons/equipment.png" alt="service-icon" /> -->
+							<div class="">
+								<img class="img-80" src="images/icons/equipment.png" alt="service-icon" />
 							</div>
 
-							<!-- Title -->
-							<h5 class="h5-sm">Teeth Whitening</h5>
+
+							<h5 class="h5-sm">General Dentistry</h5>
+							<p>Routine dental check-ups</p>
+							<p>Teeth cleanings and preventive care</p>
+							<p>Fillings for cavities</p>
+							<p>Extractions, including wisdom teeth</p>
 
 						</a>
 					</div>
@@ -195,16 +219,23 @@
 				<!-- SERVICE BOX #6 -->
 				<div class="col-sm-6 col-lg-3">
 					<div class="sbox-2 wow fadeInUp" data-wow-delay="0.6s">
-						<a href="#">
+						<a href="Cosmetic_dentistry.php">
 
 							<!-- Icon  -->
-							<div class="sbox-2-icon">
-								<!-- <img class="img-80" src="images/icons/clean.png" alt="service-icon" /> -->
+							<div class="">
+								<img class="img-80" src="images/icons/clean.png" alt="service-icon" />
 							</div>
 
 							<!-- Title -->
-							<h5 class="h5-sm ">Cosmetic dentistry
-							</h5>
+							<h5 class="h5-sm ">Cosmetic dentistry</h5>
+							<p>Teeth whitening</p>
+							<p>De pigmentation of Gums</p>
+							<p>Composite restoration & buildup</p>
+							<p>Smile Design</p>
+							<p>Composite Veneers/ laminates</p>
+							<p>Porcelain Veneers</p>
+							<p>Full mouth reconstruction</p>
+
 
 						</a>
 					</div>
@@ -214,15 +245,22 @@
 				<!-- SERVICE BOX #7 -->
 				<div class="col-sm-6 col-lg-3">
 					<div class="sbox-2 wow fadeInUp" data-wow-delay="0.8s">
-						<a href="#">
+						<a href="Children's_Dentistry.php">
 
 							<!-- Icon  -->
-							<div class="sbox-2-icon">
-								<!-- <img class="img-80" src="images/icons/anesthetic.png" alt="service-icon" /> -->
+							<div class="">
+								<img class="img-80" src="images/icons/anesthetic.png" alt="service-icon" />
 							</div>
 
 							<!-- Title -->
-							<h5 class="h5-sm">Dental Surgeries</h5>
+							<h5 class="h5-sm">Children Dentistry</h5>
+							<p>Preventive procedures</p>
+							<p>Composite fillings</p>
+							<p>Pulpectomy</p>
+							<p>SS crowns & zirconia crowns</p>
+							<p>Space maintainers</p>
+							<p>Habit breaking appliance</p>
+
 
 						</a>
 					</div>
@@ -232,16 +270,113 @@
 				<!-- SERVICE BOX #8 -->
 				<div class="col-sm-6 col-lg-3">
 					<div class="sbox-2 wow fadeInUp" data-wow-delay="1s">
-						<a href="#">
+						<a href="Endodontics.php">
 
 							<!-- Icon  -->
-							<div class="sbox-2-icon">
-								<!-- <img class="img-80" src="images/icons/caries.png" alt="service-icon" /> -->
+							<div class="">
+								<img class="img-80" src="images/icons/caries.png" alt="service-icon" />
 							</div>
 
 							<!-- Title -->
-							<h5 class="h5-sm">Endodontics Procedures
+							<h5 class="h5-sm">Endodontics Treatment</h5>
+
+							<p>Single Visit Root canal Treatment</p>
+							<p>Multiple visit RCT for long standing infection</p>
+							<p>Repeat Endodontics</p>
+							<p>Surgical Endodontics</p>
+
+
+						</a>
+					</div>
+				</div>
+
+
+
+				<!-- SERVICE BOX #5 -->
+				<div class="col-sm-6 col-lg-3">
+					<div class="sbox-2 wow fadeInUp" data-wow-delay="0.4s">
+						<a href="tobacco_cessation.php">
+
+							<!-- Icon  -->
+							<div class="sbox-2-icon">
+								 <img class="img-80" src="images/icons/equipment.png" alt="service-icon" /> 
+							</div>
+
+							<!-- Title -->
+							<h5 class="h5-sm">Tobacco Cessation Program</h5>
+							<p>Pharmacotherapy</p>
+							<p>Oral Health Monitoring</p>
+							<p>Long-term Maintenance</p>
+							<p>Follow-up Support</p>
+
+						</a>
+					</div>
+				</div>
+
+
+				<!-- SERVICE BOX #6 -->
+				<div class="col-sm-6 col-lg-3">
+					<div class="sbox-2 wow fadeInUp" data-wow-delay="0.6s">
+						<a href="dentures.php">
+
+							<!-- Icon  -->
+							<div class="">
+								<img class="img-80" src="images/icons/clean.png" alt="service-icon" />
+							</div>
+
+							<!-- Title -->
+							<h5 class="h5-sm ">Dentures
 							</h5>
+							<p>Full Dentures</p>
+							<p>Partial Dentures</p>
+							<p>Implant-Supported Dentures</p>
+							<p>Overdentures</p>
+
+						</a>
+					</div>
+				</div>
+
+
+				<!-- SERVICE BOX #7 -->
+				<div class="col-sm-6 col-lg-3">
+					<div class="sbox-2 wow fadeInUp" data-wow-delay="0.8s">
+						<a href="routine_dental.php">
+
+							<!-- Icon  -->
+							<div class="">
+								<img class="img-80" src="images/icons/anesthetic.png" alt="service-icon" />
+							</div>
+
+							<!-- Title -->
+							<h5 class="h5-sm">Routine Dental Procedures </h5>
+							<p>Dental Check-ups</p>
+							<p>X-rays and Diagnostic Imaging</p>
+							<p>Gum Disease Treatment</p>
+							<p>Extractions</p>
+
+						</a>
+					</div>
+				</div>
+
+
+				<!-- SERVICE BOX #8 -->
+				<div class="col-sm-6 col-lg-3">
+					<div class="sbox-2 wow fadeInUp" data-wow-delay="1s">
+						<a href="neuromuscular.php">
+
+							<!-- Icon  -->
+							<div class="">
+								<img class="img-80" src="images/icons/caries.png" alt="service-icon" />
+							</div>
+
+							<!-- Title -->
+							<h5 class="h5-sm">Neuromuscular Pain
+							</h5>
+							<p>Muscle tension in the jaw.</p>
+							<p>TMJ disorders.</p>
+							<p>Nerve compression or irritation.</p>
+							<p>Dental misalignment.</p>
+
 
 						</a>
 					</div>
@@ -252,7 +387,7 @@
 
 
 		</div> <!-- End container -->
-	</section> 
+	</section>
 	<!-- TABS-2
 			============================================= -->
 	<section id="tabs-2" class="wide-100 tabs-section division">
@@ -922,38 +1057,7 @@
 
 	<!-- BANNER-5
 			============================================= -->
-	<section id="banner-5" class="pt-100 banner-section division">
-		<div class="container">
 
-
-			<!-- SECTION TITLE -->
-			<div class="row">
-				<div class="col-lg-10 offset-lg-1 section-title">
-
-					<!-- Title 	-->
-					<h3 class="h3-md steelblue-color">Certified and Experienced Doctors</h3>
-
-					<!-- Text -->
-					<p>Aliquam a augue suscipit, luctus neque purus ipsum neque dolor primis libero at tempus,
-						blandit posuere ligula varius congue cursus porta feugiat
-					</p>
-
-				</div>
-			</div>
-
-
-			<!-- BANNER IMAGE -->
-			<div class="row">
-				<div class="col-lg-10 offset-lg-1">
-					<div class="banner-5-img wow fadeInUp" data-wow-delay="0.4s">
-						<img class="img-fluid" src="images/image-07.png" alt="banner-image" />
-					</div>
-				</div>
-			</div>
-
-
-		</div> <!-- End container -->
-	</section> <!-- END BANNER-5 -->
 
 
 

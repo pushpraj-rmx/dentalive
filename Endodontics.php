@@ -1,5 +1,3 @@
-
-
 <!DOCTYPE html>
 <!-- MedService - Medical & Medical Health Landing Page Template design by Jthemes -->
 <!--[if lt IE 7 ]><html class="ie ie6" lang="en"> <![endif]-->
@@ -119,7 +117,7 @@
 							</nav> -->
 
                             <!-- Title -->
-                            <h1 class="h2-sm steelblue-color">Orthodontic Services</h1>
+                            <h1 class="h2-sm steelblue-color">Endodontics Services</h1>
 
                         </div>
                     </div>
@@ -142,13 +140,13 @@
                         <div class="s1-page content-block text-center">
 
                             <!-- Title -->
-                            <h3 class="h3-xl blue-color">Why need for Orthodontic Services</h3>
+                            <h3 class="h3-xl blue-color">Why need for Endodontics Services</h3>
                             <!-- <h4 class="h4-md blue-color">Maecenas gravida porttitor nunc, magna luctus tempor viverra</h4> -->
 
                             <!-- Text -->
-                            <p class="p-lg">Orthodontic treatment can help to prevent cavities and
-                                gum disease by making it easier to clean your teeth,it can correct bite problems, which can make it easier to
-                                chew and speak,it can sometimes help to relieve pain caused by TMJ disorders.</p>
+                            <p class="p-lg">
+                                Endodontics is a specialized branch of dentistry focused on the diagnosis, prevention,
+                                and treatment of issues related to the tooth's inner pulp, which contains nerves and blood vessels.</p>
 
                             <!-- Text -->
                             <p class="p-lg">
@@ -164,7 +162,7 @@
                 <div class="row">
                     <div class="col-md-12">
                         <div class="content-block-img text-center">
-                            <img class="img-fluid" src="images\Dentalive-images\orthodontic-1.avif" alt="content-image">
+                            <img class="img-fluid" src="images\Dentalive-images\young-patient-black-goggles-getting-her-teeth-treated-by-female-hygienist-using-dental-curing-light_343059-402.jpg" alt="content-image">
                         </div>
                     </div>
                 </div>
@@ -176,17 +174,14 @@
                         <div class="s1-page content-block text-center mb-40">
 
                             <!-- Text -->
-                            <p class="p-lg">Ligula risus auctor tempus dolor feugiat, felis lacinia risus interdum
-                                auctor id viverra dolor iaculis luctus bibendum luctus neque rhoncus ipsum tempor varius
-                                iaculis at luctus neque rhoncus ipsum tempor varius cubilia laoreet augue vitae laoreet
-                                augue undo cubilia feugiat suscipit emper lacus cursus
+                            <p class="p-lg">When cavities reach the pulp, bacteria can invade and irritate the sensitive tissue,
+                                leading to inflammation and pain. Natural teeth are essential for proper chewing and digestion. Losing teeth can lead to difficulties eating and speaking.
                             </p>
 
                             <!-- Text -->
-                            <p class="p-lg">An enim nullam tempor sapien gravida donec enim ipsum blandit porta justo
-                                integer odio velna vitae auctor integer congue magna at pretium purus pretium ligula rutrum
-                                vitae laoreet augue posuere and curae integer congue leo metus mollis primis and mauris
-                                iaculis luctus bibendum neque
+                            <p class="p-lg">Endodontic treatments, like root canals, aim to preserve natural teeth whenever possible.
+                                This is preferable to tooth extraction for several reasons.Replacing missing teeth with implants or bridges can be expensive and require complex procedures. Saving natural teeth through endodontics is
+                                often more cost-effective and less invasive.
                             </p>
 
                             <!-- Button -->
@@ -515,7 +510,7 @@
                                     <div class="card-header" role="tab" id="headingOne">
                                         <h5 class="h5-xs">
                                             <a data-toggle="collapse" href="#collapseOne" role="button" aria-expanded="true" aria-controls="collapseOne">
-                                                What age should my child be seen by an orthodontist?
+                                                What is Endodontics?
                                             </a>
                                         </h5>
                                     </div>
@@ -525,10 +520,8 @@
                                         <div class="card-body">
 
                                             <!-- Text -->
-                                            <p>The American Association of Orthodontists recommends that your ch ild be evaluated by age 7. Treatment at this time for certain
-                                                cases is advisable cause the jaws are just developing and growing and intervening at this time will cause benefits in future
-                                                treatment. Early detection of some orthodontic problems is important in order to take early corrective action and avoid more
-                                                difficult treatment later.
+                                            <p>Endodontics is a specialized branch of dentistry that focuses on the diagnosis and treatment of dental pulp and tissues surrounding the tooth roots.
+                                                Endodontists perform procedures such as root canal therapy to save and restore teeth.
                                             </p>
 
                                         </div>
@@ -544,7 +537,7 @@
                                     <div class="card-header" role="tab" id="headingTwo">
                                         <h5 class="h5-xs">
                                             <a class="collapsed" data-toggle="collapse" href="#collapseTwo" role="button" aria-expanded="false" aria-controls="collapseTwo">
-                                                What is the length or duration of orthodontic treatment?
+                                                What is Root Canal Therapy?
                                             </a>
                                         </h5>
                                     </div>
@@ -554,8 +547,9 @@
                                         <div class="card-body">
 
                                             <p>
-                                                Braces may be on between 6 months to 30 months, or longer depending on the age of the patient, the severity of the problem,
-                                                the patient’s cooperation, and the degree of movement possible.
+                                                Root canal therapy is a common endodontic procedure aimed at removing infected or inflamed dental pulp.
+                                                The tooth's interior is cleaned, disinfected, and sealed,
+                                                preventing further infection and preserving the natural tooth structure.
                                             </p>
 
                                         </div>
@@ -568,7 +562,7 @@
                                     <div class="card-header" role="tab" id="headingThree">
                                         <h5 class="h5-xs">
                                             <a class="collapsed" data-toggle="collapse" href="#collapseThree" role="button" aria-expanded="false" aria-controls="collapseThree">
-                                                How do I know if my child is in need of orthodontic treatment?
+                                                How Long Does a Root Canal Procedure Take?
                                             </a>
                                         </h5>
                                     </div>
@@ -578,10 +572,8 @@
                                         <div class="card-body">
 
                                             <!-- Text -->
-                                            <p>It is usually difficult for you to determine if treatment is necessary because there are many problems that can occur even though
-                                                the front teeth look straight. Also, there are some problems that look intimidating and complex which will resolve on their own.
-                                                Our initial exam I can evaluate the case and we would be more than happy to see your child and make any recommendations
-                                                necessary.
+                                            <p>The duration of a root canal procedure depends on the tooth's complexity and the severity of the infection.
+                                                Generally, it can take one to two appointments, each lasting about 90 minutes.
                                             </p>
 
                                             <!-- List -->
@@ -599,7 +591,7 @@
                                     <div class="card-header" role="tab" id="headingEight">
                                         <h5 class="h5-xs">
                                             <a class="collapsed" data-toggle="collapse" href="#collapseEight" role="button" aria-expanded="false" aria-controls="collapseEight">
-                                                Can you be too old for braces?
+                                                Are There Alternatives to Root Canal Therapy?
                                             </a>
                                         </h5>
                                     </div>
@@ -608,8 +600,8 @@
                                     <div id="collapseEight" class="collapse" role="tabpanel" aria-labelledby="headingEight" data-parent="#accordion">
                                         <div class="card-body">
 
-                                            <p>No, age is not a factor, only the health of your gums and bone which support your teeth. About 25% of our orthodontic patients
-                                                are adults and that number is still growing!
+                                            <p>The primary alternative to root canal therapy is tooth extraction. However, saving the natural tooth through
+                                                endodontic treatment is often preferred for maintaining oral health and function.
                                             </p>
 
                                         </div>
@@ -623,7 +615,7 @@
                                     <div class="card-header" role="tab" id="headingFour">
                                         <h5 class="h5-xs">
                                             <a class="collapsed" data-toggle="collapse" href="#collapseFour" role="button" aria-expanded="false" aria-controls="collapseFour">
-                                                Will it hurt?
+                                                How Long Do the Results of Endodontic Treatment Last?
                                             </a>
                                         </h5>
                                     </div>
@@ -633,10 +625,8 @@
                                         <div class="card-body">
 
                                             <!-- Text -->
-                                            <p>Orthodontic treatment has improved dramatically. As a rule, braces make your teeth sore for a few days, but it is not painful. This
-                                                annoyance can be relieved with an over-the-counter pain reliever. Today’s braces are smaller, more comfortable and use
-                                                technology that reduces the discomfort. We use the latest in miniature braces and the highest quality of orthodontic materials in
-                                                order to reduce discomfort and treatment time.
+                                            <p>With proper care, the results of endodontic treatment can last a lifetime. Maintaining good oral hygiene practices, regular dental check-ups,
+                                                and addressing any issues promptly contribute to long-term success.
                                             </p>
 
                                         </div>

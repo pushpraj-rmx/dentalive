@@ -1034,8 +1034,8 @@ ul.content-list li:last-child {
 .btn-blue,
 .white-color .btn-blue {
   color: #fff;
-  background-color: #00a3c8;
-  border-color: #00a3c8;
+  background-color: rgb(39,89,148);
+  border-color: rgb(39,89,148);
 }
 
 .btn-darkgreen,
@@ -1515,7 +1515,7 @@ span.id-color {
 .white-color .blue-color,
 .steelblue-color .blue-color,
 .blue-color span {
-  color: #00a3c8;
+  color:rgb(0, 72, 97);
 }
 
 .darkblue-color,
@@ -1545,7 +1545,7 @@ span.id-color {
 .steelblue-color i,
 .white-color .steelblue-color,
 .steelblue-color span {
-  color: rgb(0, 72, 97);;
+  color: rgb(39, 89,148);;
 }
 
 .lime-color,
@@ -6564,4 +6564,74 @@ nav a#pull {
 
 .nl-simple.header-btn.mobile-hidden {
   display: none !important;
+}
+
+
+
+.sidebar-fixed {
+  position: fixed;
+  z-index: 9999;
+  right: -83px;
+  top: calc(50% - 120px);
+  transition: all linear 0.3s;
+}
+
+
+.sidebar-fixed:hover {
+  position: fixed;
+  z-index: 9999;
+  right: 0px;
+  top: calc(50% - 120px);
+}
+
+
+.side-social-icons {
+  font-size: 16px;
+  color: white;
+  /* padding: ; */
+}
+
+.side-social-icons a {
+  /* font-size: 16px; */
+  color: white;
+  /* padding: ; */
+}
+
+
+.side-social-icons i {
+  padding: 10px 10px;
+  font-size: 20px;
+
+}
+
+.side-social-icons .facebook,
+.side-social-icons .twitter,
+.side-social-icons .linkedin,
+.side-social-icons .whatsapp,
+.side-social-icons .youtube,
+.side-social-icons .instagram {
+  padding: 0px 10px 0px 0px ;
+}
+
+.side-social-icons .facebook {
+  background-color: #3b5998;
+}
+.side-social-icons .twitter {
+  background-color: rgb(0, 0, 0);
+}
+
+.side-social-icons .linkedin {
+  background-color: #0077b5;
+}
+
+.side-social-icons .whatsapp {
+  background-color: #25d366;
+}
+
+.side-social-icons .youtube {
+  background-color: #CD201F;
+}
+
+.side-social-icons .instagram {
+  background-color: #fb17c3;
 }

@@ -117,7 +117,7 @@
 							</nav> -->
 
                             <!-- Title -->
-                            <h1 class="h2-sm steelblue-color">Gum Treatment</h1>
+                            <h1 class="h2-sm steelblue-color">Dentures Service</h1>
 
                         </div>
                     </div>
@@ -140,12 +140,13 @@
                         <div class="s1-page content-block text-center">
 
                             <!-- Title -->
-                            <h3 class="h3-xl blue-color">Why need for Gum Treatment Services</h3>
+                            <h3 class="h3-xl blue-color">Why need for Dentures Services</h3>
                             <!-- <h4 class="h4-md blue-color">Maecenas gravida porttitor nunc, magna luctus tempor viverra</h4> -->
 
                             <!-- Text -->
-                            <p class="p-lg">Healthy gums are the foundation of a healthy smile. They provide vital support for your teeth and act as a barrier against harmful bacteria. However, if left untreated, gum disease can wreak havoc on your
-                                 oral health and even have negative consequences for your overall well-being.</p>
+                            <p class="p-lg">While missing teeth can be purely aesthetic, their impact often extends
+                                beyond just a smile's appearance. Dentures, though they may sound outdated, offer a spectrum of
+                                benefits that can revitalize your oral health, function, and overall well-being.</p>
 
                             <!-- Text -->
                             <p class="p-lg">
@@ -161,7 +162,7 @@
                 <div class="row">
                     <div class="col-md-12">
                         <div class="content-block-img text-center">
-                            <img class="img-fluid" src="images\Dentalive-images\dentist-examining-female-patient-with-tools_107420-65513.jpg" alt="content-image">
+                            <img class="img-fluid" src="images\Dentalive-images\portrait-patient-dentist_23-2148396208.jpg" alt="content-image">
                         </div>
                     </div>
                 </div>
@@ -173,13 +174,15 @@
                         <div class="s1-page content-block text-center mb-40">
 
                             <!-- Text -->
-                            <p class="p-lg">Gum disease, also known as periodontal disease, is a progressive infection of the tissues 
-                                surrounding your teeth. It's caused by plaque, a sticky film of bacteria that constantly builds up on your teeth. If plaque isn't removed regularly through brushing and flossing, it can harden into tartar,
-                                which further irritates the gums and creates a breeding ground for bacteria.                            </p>
+                            <p class="p-lg">Dentures enhance speech clarity for individuals who have lost teeth.
+                                They provide support to the lips and tongue,
+                                facilitating proper pronunciation and communication.
+                            </p>
 
                             <!-- Text -->
-                            <p class="p-lg"> If gingivitis is left untreated, it can progress to periodontitis, which damages the supporting structures of your teeth, including the bone.
-                                This can lead to loose teeth, tooth loss, and even jawbone deterioration.
+                            <p class="p-lg">With the ability to chew more effectively, dentures aid in better
+                                digestion and nutrition. They ensure that
+                                individuals can enjoy a diverse and nutritious diet despite tooth loss.
                             </p>
 
                             <!-- Button -->
@@ -199,252 +202,6 @@
         </div> <!-- END SERVICE DETAILS -->
 
 
-
-        <section id="faqs-page" class="wide-80 faqs-section division">
-            <div class="container">
-                <h3 class="h3-md steelblue-color text-center">Frequently Asked Questions</h3>
-                <br>
-                <div class="row">
-
-                    <!-- QUESTIONS HOLDER -->
-                    <div class="col-lg-8">
-                        <div class="questions-holder pr-30">
-                            <!-- QUESTIONS ACCORDION -->
-                            <div id="accordion" role="tablist">
-
-
-
-                                <div class="card">
-
-                                    <!-- Card Title -->
-                                    <div class="card-header" role="tab" id="headingOne">
-                                        <h5 class="h5-xs">
-                                            <a data-toggle="collapse" href="#collapseOne" role="button" aria-expanded="true" aria-controls="collapseOne">
-                                            How do I know if I need gum treatment?
-                                            </a>
-                                        </h5>
-                                    </div>
-
-                                    <!-- Card Content -->
-                                    <div id="collapseOne" class="collapse show" role="tabpanel" aria-labelledby="headingOne" data-parent="#accordion">
-                                        <div class="card-body">
-
-                                            <!-- Text -->
-                                            <p>Common signs include bleeding gums, persistent bad breath, gum recession, and increased tooth sensitivity.
-                                                Regular dental check-ups can help detect early signs of gum issues.
-                                            </p>
-
-                                        </div>
-                                    </div>
-
-                                </div> <!-- END ACCORDION CARD #1 -->
-
-
-                                <!-- ACCORDION CARD #2 -->
-                                <div class="card">
-
-                                    <!-- Card Title -->
-                                    <div class="card-header" role="tab" id="headingTwo">
-                                        <h5 class="h5-xs">
-                                            <a class="collapsed" data-toggle="collapse" href="#collapseTwo" role="button" aria-expanded="false" aria-controls="collapseTwo">
-                                            What is scaling and root planing?
-                                            </a>
-                                        </h5>
-                                    </div>
-
-                                    <!-- Card Content -->
-                                    <div id="collapseTwo" class="collapse" role="tabpanel" aria-labelledby="headingTwo" data-parent="#accordion">
-                                        <div class="card-body">
-
-                                            <p>
-                                            Scaling involves removing plaque and tartar from the tooth surface and below the gumline.
-                                            Root planing smoothens the tooth roots to prevent bacteria accumulation.
-                                            It is a common non-surgical gum treatment.
-                                            </p>
-
-                                        </div>
-                                    </div>
-
-                                </div>
-                                <div class="card">
-
-                                    <!-- Card Title -->
-                                    <div class="card-header" role="tab" id="headingThree">
-                                        <h5 class="h5-xs">
-                                            <a class="collapsed" data-toggle="collapse" href="#collapseThree" role="button" aria-expanded="false" aria-controls="collapseThree">
-                                            Is gum treatment painful?
-                                            </a>
-                                        </h5>
-                                    </div>
-
-                                    <!-- Card Content -->
-                                    <div id="collapseThree" class="collapse" role="tabpanel" aria-labelledby="headingThree" data-parent="#accordion">
-                                        <div class="card-body">
-
-                                            <!-- Text -->
-                                            <p>Modern gum treatments are typically performed with local anesthesia to minimize discomfort.
-                                                Post-treatment, any mild soreness can be managed with over-the-counter pain relievers.
-                                            </p>
-
-                                            <!-- List -->
-
-
-
-                                        </div>
-                                    </div>
-
-                                </div> <!-- END ACCORDION CARD #3 -->
-
-                                <div class="card">
-
-                                    <!-- Card Title -->
-                                    <div class="card-header" role="tab" id="headingEight">
-                                        <h5 class="h5-xs">
-                                            <a class="collapsed" data-toggle="collapse" href="#collapseEight" role="button" aria-expanded="false" aria-controls="collapseEight">
-                                            How long does gum treatment take?
-                                            </a>
-                                        </h5>
-                                    </div>
-
-                                    <!-- Card Content -->
-                                    <div id="collapseEight" class="collapse" role="tabpanel" aria-labelledby="headingEight" data-parent="#accordion">
-                                        <div class="card-body">
-
-                                            <p>The duration varies based on the severity of the gum issue.
-                                                Scaling and root planing can take one or more appointments,
-                                                each lasting about 60 to 90 minutes.
-                                            </p>
-
-                                        </div>
-                                    </div>
-
-                                </div>
-                                <!-- ACCORDION CARD #4 -->
-                                <div class="card no-border">
-
-                                    <!-- Card Title -->
-                                    <div class="card-header" role="tab" id="headingFour">
-                                        <h5 class="h5-xs">
-                                            <a class="collapsed" data-toggle="collapse" href="#collapseFour" role="button" aria-expanded="false" aria-controls="collapseFour">
-                                            How often should I have gum treatments?
-                                            </a>
-                                        </h5>
-                                    </div>
-
-                                    <!-- Card Content -->
-                                    <div id="collapseFour" class="collapse" role="tabpanel" aria-labelledby="headingFour" data-parent="#accordion">
-                                        <div class="card-body">
-
-                                            <!-- Text -->
-                                            <p>The frequency depends on individual oral health needs.
-                                                Some may require gum treatments as part of routine dental care,
-                                                while others may need them on a more targeted basis.
-                                            </p>
-
-                                        </div>
-                                    </div>
-
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-
-
-                    <!-- SIDEBAR -->
-                    <aside id="sidebar" class="col-lg-4">
-
-
-                        <!-- TEXT WIDGET -->
-                        <div id="txt-widget" class="sidebar-div mb-50">
-
-                            <!-- Title -->
-
-
-
-                            <!-- Head of Clinic -->
-                            <div class="txt-widget-unit mb-15 clearfix d-flex align-items-center">
-
-                                <!-- Avatar -->
-                                <!-- <div class="txt-widget-avatar">
-                                    <img src="images/head-of-clinic.jpg" alt="testimonial-avatar">
-                                </div> -->
-
-                                <!-- Data -->
-                                <!-- <div class="txt-widget-data">
-                                    <h5 class="h5-md steelblue-color">Dr. Jonathan Barnes</h5>
-                                    <span>Chief Medical Officer, Founder</span>
-                                    <p class="blue-color">1-800-1234-567</p>
-                                </div> -->
-
-                            </div> <!-- End Head of Clinic -->
-
-                            <!-- Text -->
-                            <!-- <p class="p-sm">An enim nullam tempor sapien at gravida donec pretium ipsum porta justo
-                                integer at odiovelna vitae auctor integer congue magna purus
-                            </p> -->
-
-                            <!-- Button -->
-                            <!-- <a href="about.php" class="btn btn-blue blue-hover">Learn More</a> -->
-
-                        </div> <!-- END TEXT WIDGET -->
-
-
-                        <!-- SIDEBAR TABLE -->
-                        <div class="sidebar-table blue-table sidebar-div mb-50">
-
-                            <!-- Title -->
-                            <h5 class="h5-md">Working Time</h5>
-
-                            <!-- Text -->
-                            <!-- <p class="p-sm">Porta semper lacus cursus, feugiat primis ultrice ligula risus auctor at
-                                tempus feugiat dolor lacinia cursus nulla vitae massa
-                            </p> -->
-
-                            <!-- Table -->
-                            <table class="table">
-                                <tbody>
-                                    <tr>
-                                        <td>Mon – Sat</td>
-                                        <td> - </td>
-                                        <td class="text-right">11:00 AM - 09:00 PM</td>
-                                    </tr>
-
-
-
-
-                                    <tr class="last-tr">
-                                        <td>Sun</td>
-                                        <td>-</td>
-                                        <td class="text-right">CLOSED</td>
-                                    </tr>
-
-                                </tbody>
-                            </table>
-
-                            <!-- Title -->
-                            <h5 class="h5-xs">Need a personal health plan?</h5>
-
-                            <!-- Text -->
-
-
-
-                            <a href="#" class="btn btn-blue blue-hover">Visit Us</a>
-
-                        </div> <!-- END SIDEBAR TABLE -->
-
-
-                        <!-- SIDEBAR TIMETABLE -->
-
-
-
-
-                    </aside> <!-- END SIDEBAR -->
-
-
-                </div> <!-- End row -->
-            </div> <!-- End container -->
-        </section>
 
 
         <!-- TESTIMONIALS-2
@@ -734,8 +491,252 @@
 
         <!-- FAQ -->
 
-      
-        
+        <section id="faqs-page" class="wide-80 faqs-section division">
+            <div class="container">
+                <h3 class="h3-md steelblue-color text-center">Frequently Asked Questions</h3>
+                <br>
+                <div class="row">
+
+                    <!-- QUESTIONS HOLDER -->
+                    <div class="col-lg-8">
+                        <div class="questions-holder pr-30">
+                            <!-- QUESTIONS ACCORDION -->
+                            <div id="accordion" role="tablist">
+
+
+
+                                <div class="card">
+
+                                    <!-- Card Title -->
+                                    <div class="card-header" role="tab" id="headingOne">
+                                        <h5 class="h5-xs">
+                                            <a data-toggle="collapse" href="#collapseOne" role="button" aria-expanded="true" aria-controls="collapseOne">
+                                                What are dentures, and how do they work?
+                                            </a>
+                                        </h5>
+                                    </div>
+
+                                    <!-- Card Content -->
+                                    <div id="collapseOne" class="collapse show" role="tabpanel" aria-labelledby="headingOne" data-parent="#accordion">
+                                        <div class="card-body">
+
+                                            <!-- Text -->
+                                            <p>Dentures are removable prosthetic devices designed to replace missing teeth.
+                                                They restore oral function, aesthetics,
+                                                and prevent potential oral health issues by filling gaps in the dental arch.
+                                            </p>
+
+                                        </div>
+                                    </div>
+
+                                </div> <!-- END ACCORDION CARD #1 -->
+
+
+                                <!-- ACCORDION CARD #2 -->
+                                <div class="card">
+
+                                    <!-- Card Title -->
+                                    <div class="card-header" role="tab" id="headingTwo">
+                                        <h5 class="h5-xs">
+                                            <a class="collapsed" data-toggle="collapse" href="#collapseTwo" role="button" aria-expanded="false" aria-controls="collapseTwo">
+                                                Who is a candidate for dentures?
+                                            </a>
+                                        </h5>
+                                    </div>
+
+                                    <!-- Card Content -->
+                                    <div id="collapseTwo" class="collapse" role="tabpanel" aria-labelledby="headingTwo" data-parent="#accordion">
+                                        <div class="card-body">
+
+                                            <p>
+                                                Candidates for dentures include individuals with multiple missing teeth or those experiencing complete tooth loss.
+                                                A dentist evaluates each case to determine the
+                                                suitability of dentures based on oral health and individual needs.
+                                            </p>
+
+                                        </div>
+                                    </div>
+
+                                </div>
+                                <div class="card">
+
+                                    <!-- Card Title -->
+                                    <div class="card-header" role="tab" id="headingThree">
+                                        <h5 class="h5-xs">
+                                            <a class="collapsed" data-toggle="collapse" href="#collapseThree" role="button" aria-expanded="false" aria-controls="collapseThree">
+                                                How long does it take to adjust to wearing dentures?
+                                            </a>
+                                        </h5>
+                                    </div>
+
+                                    <!-- Card Content -->
+                                    <div id="collapseThree" class="collapse" role="tabpanel" aria-labelledby="headingThree" data-parent="#accordion">
+                                        <div class="card-body">
+
+                                            <!-- Text -->
+                                            <p>The adjustment period to wearing dentures varies among individuals.
+                                                It may take a few weeks for the mouth and muscles to adapt.
+                                                Dentists provide guidance on proper care and usage during this period.
+                                            </p>
+
+                                            <!-- List -->
+
+
+
+                                        </div>
+                                    </div>
+
+                                </div> <!-- END ACCORDION CARD #3 -->
+
+                                <div class="card">
+
+                                    <!-- Card Title -->
+                                    <div class="card-header" role="tab" id="headingEight">
+                                        <h5 class="h5-xs">
+                                            <a class="collapsed" data-toggle="collapse" href="#collapseEight" role="button" aria-expanded="false" aria-controls="collapseEight">
+                                                How should dentures be cleaned and cared for?
+                                            </a>
+                                        </h5>
+                                    </div>
+
+                                    <!-- Card Content -->
+                                    <div id="collapseEight" class="collapse" role="tabpanel" aria-labelledby="headingEight" data-parent="#accordion">
+                                        <div class="card-body">
+
+                                            <p>Dentures should be cleaned daily with a soft brush and mild cleanser. They should be removed
+                                                and soaked overnight to maintain their shape and hygiene. Regular
+                                                dental check-ups are essential for adjustments and oral health monitoring.
+                                            </p>
+
+                                        </div>
+                                    </div>
+
+                                </div>
+                                <!-- ACCORDION CARD #4 -->
+                                <div class="card no-border">
+
+                                    <!-- Card Title -->
+                                    <div class="card-header" role="tab" id="headingFour">
+                                        <h5 class="h5-xs">
+                                            <a class="collapsed" data-toggle="collapse" href="#collapseFour" role="button" aria-expanded="false" aria-controls="collapseFour">
+                                                Are there alternatives to traditional dentures?
+                                            </a>
+                                        </h5>
+                                    </div>
+
+                                    <!-- Card Content -->
+                                    <div id="collapseFour" class="collapse" role="tabpanel" aria-labelledby="headingFour" data-parent="#accordion">
+                                        <div class="card-body">
+
+                                            <!-- Text -->
+                                            <p>Yes, alternatives include implant-supported dentures, which offer increased stability and function.
+                                                Dental bridges and implants are other options based on individual needs and preferences.
+                                            </p>
+
+                                        </div>
+                                    </div>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+
+
+                    <!-- SIDEBAR -->
+                    <aside id="sidebar" class="col-lg-4">
+
+
+                        <!-- TEXT WIDGET -->
+                        <div id="txt-widget" class="sidebar-div mb-50">
+
+                            <!-- Title -->
+
+
+
+                            <!-- Head of Clinic -->
+                            <div class="txt-widget-unit mb-15 clearfix d-flex align-items-center">
+
+                                <!-- Avatar -->
+                                <!-- <div class="txt-widget-avatar">
+                                    <img src="images/head-of-clinic.jpg" alt="testimonial-avatar">
+                                </div> -->
+
+                                <!-- Data -->
+                                <!-- <div class="txt-widget-data">
+                                    <h5 class="h5-md steelblue-color">Dr. Jonathan Barnes</h5>
+                                    <span>Chief Medical Officer, Founder</span>
+                                    <p class="blue-color">1-800-1234-567</p>
+                                </div> -->
+
+                            </div> <!-- End Head of Clinic -->
+
+                            <!-- Text -->
+                            <!-- <p class="p-sm">An enim nullam tempor sapien at gravida donec pretium ipsum porta justo
+                                integer at odiovelna vitae auctor integer congue magna purus
+                            </p> -->
+
+                            <!-- Button -->
+                            <!-- <a href="about.php" class="btn btn-blue blue-hover">Learn More</a> -->
+
+                        </div> <!-- END TEXT WIDGET -->
+
+
+                        <!-- SIDEBAR TABLE -->
+                        <div class="sidebar-table blue-table sidebar-div mb-50">
+
+                            <!-- Title -->
+                            <h5 class="h5-md">Working Time</h5>
+
+                            <!-- Text -->
+                            <!-- <p class="p-sm">Porta semper lacus cursus, feugiat primis ultrice ligula risus auctor at
+                                tempus feugiat dolor lacinia cursus nulla vitae massa
+                            </p> -->
+
+                            <!-- Table -->
+                            <table class="table">
+                                <tbody>
+                                    <tr>
+                                        <td>Mon – Sat</td>
+                                        <td> - </td>
+                                        <td class="text-right">11:00 AM - 09:00 PM</td>
+                                    </tr>
+
+
+
+
+                                    <tr class="last-tr">
+                                        <td>Sun</td>
+                                        <td>-</td>
+                                        <td class="text-right">CLOSED</td>
+                                    </tr>
+
+                                </tbody>
+                            </table>
+
+                            <!-- Title -->
+                            <h5 class="h5-xs">Need a personal health plan?</h5>
+
+                            <!-- Text -->
+
+
+
+                            <a href="#" class="btn btn-blue blue-hover">Visit Us</a>
+
+                        </div> <!-- END SIDEBAR TABLE -->
+
+
+                        <!-- SIDEBAR TIMETABLE -->
+
+
+
+
+                    </aside> <!-- END SIDEBAR -->
+
+
+                </div> <!-- End row -->
+            </div> <!-- End container -->
+        </section>
 
 
 

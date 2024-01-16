@@ -117,7 +117,7 @@
 							</nav> -->
 
                             <!-- Title -->
-                            <h1 class="h2-sm steelblue-color">Gum Treatment</h1>
+                            <h1 class="h2-sm steelblue-color">Neuromuscular</h1>
 
                         </div>
                     </div>
@@ -140,12 +140,13 @@
                         <div class="s1-page content-block text-center">
 
                             <!-- Title -->
-                            <h3 class="h3-xl blue-color">Why need for Gum Treatment Services</h3>
+                            <h3 class="h3-xl blue-color">Why need for Neuromuscular Services</h3>
                             <!-- <h4 class="h4-md blue-color">Maecenas gravida porttitor nunc, magna luctus tempor viverra</h4> -->
 
                             <!-- Text -->
-                            <p class="p-lg">Healthy gums are the foundation of a healthy smile. They provide vital support for your teeth and act as a barrier against harmful bacteria. However, if left untreated, gum disease can wreak havoc on your
-                                 oral health and even have negative consequences for your overall well-being.</p>
+                            <p class="p-lg">Neuromuscular system governs movement and muscle function, crucial for
+                                daily activities like walking, talking, and breathing. When this system malfunctions, it
+                                can lead to a range of debilitating conditions affecting everyday life.</p>
 
                             <!-- Text -->
                             <p class="p-lg">
@@ -161,7 +162,7 @@
                 <div class="row">
                     <div class="col-md-12">
                         <div class="content-block-img text-center">
-                            <img class="img-fluid" src="images\Dentalive-images\dentist-examining-female-patient-with-tools_107420-65513.jpg" alt="content-image">
+                            <img class="img-fluid" src="images\Dentalive-images\dentist-process-dental-services-dental-office-dental-treatment_1321-2951.jpg" alt="content-image">
                         </div>
                     </div>
                 </div>
@@ -173,13 +174,15 @@
                         <div class="s1-page content-block text-center mb-40">
 
                             <!-- Text -->
-                            <p class="p-lg">Gum disease, also known as periodontal disease, is a progressive infection of the tissues 
-                                surrounding your teeth. It's caused by plaque, a sticky film of bacteria that constantly builds up on your teeth. If plaque isn't removed regularly through brushing and flossing, it can harden into tartar,
-                                which further irritates the gums and creates a breeding ground for bacteria.                            </p>
+                            <p class="p-lg">Neuromuscular disorders encompass a wide spectrum, from muscular dystrophy and
+                                motor neuron disease to peripheral neuropathies and chronic fatigue syndrome. Specialized services ensure accurate diagnosis and appropriate
+                                management plans tailored to each condition's specific needs.
+                            </p>
 
                             <!-- Text -->
-                            <p class="p-lg"> If gingivitis is left untreated, it can progress to periodontitis, which damages the supporting structures of your teeth, including the bone.
-                                This can lead to loose teeth, tooth loss, and even jawbone deterioration.
+                            <p class="p-lg">Neuromuscular conditions often lead to weakness, pain, and difficulty with movement.
+                                Physiotherapists, occupational therapists, and other specialists design personalized interventions to improve muscle strength, coordination, and balance, empowering
+                                individuals to regain independence and function in daily activities.
                             </p>
 
                             <!-- Button -->
@@ -199,252 +202,6 @@
         </div> <!-- END SERVICE DETAILS -->
 
 
-
-        <section id="faqs-page" class="wide-80 faqs-section division">
-            <div class="container">
-                <h3 class="h3-md steelblue-color text-center">Frequently Asked Questions</h3>
-                <br>
-                <div class="row">
-
-                    <!-- QUESTIONS HOLDER -->
-                    <div class="col-lg-8">
-                        <div class="questions-holder pr-30">
-                            <!-- QUESTIONS ACCORDION -->
-                            <div id="accordion" role="tablist">
-
-
-
-                                <div class="card">
-
-                                    <!-- Card Title -->
-                                    <div class="card-header" role="tab" id="headingOne">
-                                        <h5 class="h5-xs">
-                                            <a data-toggle="collapse" href="#collapseOne" role="button" aria-expanded="true" aria-controls="collapseOne">
-                                            How do I know if I need gum treatment?
-                                            </a>
-                                        </h5>
-                                    </div>
-
-                                    <!-- Card Content -->
-                                    <div id="collapseOne" class="collapse show" role="tabpanel" aria-labelledby="headingOne" data-parent="#accordion">
-                                        <div class="card-body">
-
-                                            <!-- Text -->
-                                            <p>Common signs include bleeding gums, persistent bad breath, gum recession, and increased tooth sensitivity.
-                                                Regular dental check-ups can help detect early signs of gum issues.
-                                            </p>
-
-                                        </div>
-                                    </div>
-
-                                </div> <!-- END ACCORDION CARD #1 -->
-
-
-                                <!-- ACCORDION CARD #2 -->
-                                <div class="card">
-
-                                    <!-- Card Title -->
-                                    <div class="card-header" role="tab" id="headingTwo">
-                                        <h5 class="h5-xs">
-                                            <a class="collapsed" data-toggle="collapse" href="#collapseTwo" role="button" aria-expanded="false" aria-controls="collapseTwo">
-                                            What is scaling and root planing?
-                                            </a>
-                                        </h5>
-                                    </div>
-
-                                    <!-- Card Content -->
-                                    <div id="collapseTwo" class="collapse" role="tabpanel" aria-labelledby="headingTwo" data-parent="#accordion">
-                                        <div class="card-body">
-
-                                            <p>
-                                            Scaling involves removing plaque and tartar from the tooth surface and below the gumline.
-                                            Root planing smoothens the tooth roots to prevent bacteria accumulation.
-                                            It is a common non-surgical gum treatment.
-                                            </p>
-
-                                        </div>
-                                    </div>
-
-                                </div>
-                                <div class="card">
-
-                                    <!-- Card Title -->
-                                    <div class="card-header" role="tab" id="headingThree">
-                                        <h5 class="h5-xs">
-                                            <a class="collapsed" data-toggle="collapse" href="#collapseThree" role="button" aria-expanded="false" aria-controls="collapseThree">
-                                            Is gum treatment painful?
-                                            </a>
-                                        </h5>
-                                    </div>
-
-                                    <!-- Card Content -->
-                                    <div id="collapseThree" class="collapse" role="tabpanel" aria-labelledby="headingThree" data-parent="#accordion">
-                                        <div class="card-body">
-
-                                            <!-- Text -->
-                                            <p>Modern gum treatments are typically performed with local anesthesia to minimize discomfort.
-                                                Post-treatment, any mild soreness can be managed with over-the-counter pain relievers.
-                                            </p>
-
-                                            <!-- List -->
-
-
-
-                                        </div>
-                                    </div>
-
-                                </div> <!-- END ACCORDION CARD #3 -->
-
-                                <div class="card">
-
-                                    <!-- Card Title -->
-                                    <div class="card-header" role="tab" id="headingEight">
-                                        <h5 class="h5-xs">
-                                            <a class="collapsed" data-toggle="collapse" href="#collapseEight" role="button" aria-expanded="false" aria-controls="collapseEight">
-                                            How long does gum treatment take?
-                                            </a>
-                                        </h5>
-                                    </div>
-
-                                    <!-- Card Content -->
-                                    <div id="collapseEight" class="collapse" role="tabpanel" aria-labelledby="headingEight" data-parent="#accordion">
-                                        <div class="card-body">
-
-                                            <p>The duration varies based on the severity of the gum issue.
-                                                Scaling and root planing can take one or more appointments,
-                                                each lasting about 60 to 90 minutes.
-                                            </p>
-
-                                        </div>
-                                    </div>
-
-                                </div>
-                                <!-- ACCORDION CARD #4 -->
-                                <div class="card no-border">
-
-                                    <!-- Card Title -->
-                                    <div class="card-header" role="tab" id="headingFour">
-                                        <h5 class="h5-xs">
-                                            <a class="collapsed" data-toggle="collapse" href="#collapseFour" role="button" aria-expanded="false" aria-controls="collapseFour">
-                                            How often should I have gum treatments?
-                                            </a>
-                                        </h5>
-                                    </div>
-
-                                    <!-- Card Content -->
-                                    <div id="collapseFour" class="collapse" role="tabpanel" aria-labelledby="headingFour" data-parent="#accordion">
-                                        <div class="card-body">
-
-                                            <!-- Text -->
-                                            <p>The frequency depends on individual oral health needs.
-                                                Some may require gum treatments as part of routine dental care,
-                                                while others may need them on a more targeted basis.
-                                            </p>
-
-                                        </div>
-                                    </div>
-
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-
-
-                    <!-- SIDEBAR -->
-                    <aside id="sidebar" class="col-lg-4">
-
-
-                        <!-- TEXT WIDGET -->
-                        <div id="txt-widget" class="sidebar-div mb-50">
-
-                            <!-- Title -->
-
-
-
-                            <!-- Head of Clinic -->
-                            <div class="txt-widget-unit mb-15 clearfix d-flex align-items-center">
-
-                                <!-- Avatar -->
-                                <!-- <div class="txt-widget-avatar">
-                                    <img src="images/head-of-clinic.jpg" alt="testimonial-avatar">
-                                </div> -->
-
-                                <!-- Data -->
-                                <!-- <div class="txt-widget-data">
-                                    <h5 class="h5-md steelblue-color">Dr. Jonathan Barnes</h5>
-                                    <span>Chief Medical Officer, Founder</span>
-                                    <p class="blue-color">1-800-1234-567</p>
-                                </div> -->
-
-                            </div> <!-- End Head of Clinic -->
-
-                            <!-- Text -->
-                            <!-- <p class="p-sm">An enim nullam tempor sapien at gravida donec pretium ipsum porta justo
-                                integer at odiovelna vitae auctor integer congue magna purus
-                            </p> -->
-
-                            <!-- Button -->
-                            <!-- <a href="about.php" class="btn btn-blue blue-hover">Learn More</a> -->
-
-                        </div> <!-- END TEXT WIDGET -->
-
-
-                        <!-- SIDEBAR TABLE -->
-                        <div class="sidebar-table blue-table sidebar-div mb-50">
-
-                            <!-- Title -->
-                            <h5 class="h5-md">Working Time</h5>
-
-                            <!-- Text -->
-                            <!-- <p class="p-sm">Porta semper lacus cursus, feugiat primis ultrice ligula risus auctor at
-                                tempus feugiat dolor lacinia cursus nulla vitae massa
-                            </p> -->
-
-                            <!-- Table -->
-                            <table class="table">
-                                <tbody>
-                                    <tr>
-                                        <td>Mon – Sat</td>
-                                        <td> - </td>
-                                        <td class="text-right">11:00 AM - 09:00 PM</td>
-                                    </tr>
-
-
-
-
-                                    <tr class="last-tr">
-                                        <td>Sun</td>
-                                        <td>-</td>
-                                        <td class="text-right">CLOSED</td>
-                                    </tr>
-
-                                </tbody>
-                            </table>
-
-                            <!-- Title -->
-                            <h5 class="h5-xs">Need a personal health plan?</h5>
-
-                            <!-- Text -->
-
-
-
-                            <a href="#" class="btn btn-blue blue-hover">Visit Us</a>
-
-                        </div> <!-- END SIDEBAR TABLE -->
-
-
-                        <!-- SIDEBAR TIMETABLE -->
-
-
-
-
-                    </aside> <!-- END SIDEBAR -->
-
-
-                </div> <!-- End row -->
-            </div> <!-- End container -->
-        </section>
 
 
         <!-- TESTIMONIALS-2
@@ -734,8 +491,252 @@
 
         <!-- FAQ -->
 
-      
-        
+        <section id="faqs-page" class="wide-80 faqs-section division">
+            <div class="container">
+                <h3 class="h3-md steelblue-color text-center">Frequently Asked Questions</h3>
+                <br>
+                <div class="row">
+
+                    <!-- QUESTIONS HOLDER -->
+                    <div class="col-lg-8">
+                        <div class="questions-holder pr-30">
+                            <!-- QUESTIONS ACCORDION -->
+                            <div id="accordion" role="tablist">
+
+
+
+                                <div class="card">
+
+                                    <!-- Card Title -->
+                                    <div class="card-header" role="tab" id="headingOne">
+                                        <h5 class="h5-xs">
+                                            <a data-toggle="collapse" href="#collapseOne" role="button" aria-expanded="true" aria-controls="collapseOne">
+                                                What is neuromuscular dentistry?
+                                            </a>
+                                        </h5>
+                                    </div>
+
+                                    <!-- Card Content -->
+                                    <div id="collapseOne" class="collapse show" role="tabpanel" aria-labelledby="headingOne" data-parent="#accordion">
+                                        <div class="card-body">
+
+                                            <!-- Text -->
+                                            <p>Neuromuscular dentistry is a branch of dentistry that focuses on the relationship between
+                                                the muscles, joints, and nerves in the jaw. It aims to address issues related to the temporomandibular
+                                                joint (TMJ) and optimize overall jaw function.
+                                            </p>
+
+                                        </div>
+                                    </div>
+
+                                </div> <!-- END ACCORDION CARD #1 -->
+
+
+                                <!-- ACCORDION CARD #2 -->
+                                <div class="card">
+
+                                    <!-- Card Title -->
+                                    <div class="card-header" role="tab" id="headingTwo">
+                                        <h5 class="h5-xs">
+                                            <a class="collapsed" data-toggle="collapse" href="#collapseTwo" role="button" aria-expanded="false" aria-controls="collapseTwo">
+                                                How is a neuromuscular examination conducted?
+                                            </a>
+                                        </h5>
+                                    </div>
+
+                                    <!-- Card Content -->
+                                    <div id="collapseTwo" class="collapse" role="tabpanel" aria-labelledby="headingTwo" data-parent="#accordion">
+                                        <div class="card-body">
+
+                                            <p>
+                                                A neuromuscular examination involves assessing the jaw's range of motion, muscle tenderness,
+                                                and joint sounds. Advanced diagnostic tools like electromyography (EMG) and computerized
+                                                jaw tracking may be used to gather precise information.
+                                            </p>
+
+                                        </div>
+                                    </div>
+
+                                </div>
+                                <div class="card">
+
+                                    <!-- Card Title -->
+                                    <div class="card-header" role="tab" id="headingThree">
+                                        <h5 class="h5-xs">
+                                            <a class="collapsed" data-toggle="collapse" href="#collapseThree" role="button" aria-expanded="false" aria-controls="collapseThree">
+                                                Is neuromuscular treatment painful?
+                                            </a>
+                                        </h5>
+                                    </div>
+
+                                    <!-- Card Content -->
+                                    <div id="collapseThree" class="collapse" role="tabpanel" aria-labelledby="headingThree" data-parent="#accordion">
+                                        <div class="card-body">
+
+                                            <!-- Text -->
+                                            <p>Neuromuscular treatment aims to provide relief from pain and discomfort
+                                                associated with TMJ disorders. The procedures are typically designed to be comfortable, and measures are
+                                                taken to manage any potential discomfort during the process.
+                                            </p>
+
+                                            <!-- List -->
+
+
+
+                                        </div>
+                                    </div>
+
+                                </div> <!-- END ACCORDION CARD #3 -->
+
+                                <div class="card">
+
+                                    <!-- Card Title -->
+                                    <div class="card-header" role="tab" id="headingEight">
+                                        <h5 class="h5-xs">
+                                            <a class="collapsed" data-toggle="collapse" href="#collapseEight" role="button" aria-expanded="false" aria-controls="collapseEight">
+                                                Are there at-home remedies for TMJ pain?
+                                            </a>
+                                        </h5>
+                                    </div>
+
+                                    <!-- Card Content -->
+                                    <div id="collapseEight" class="collapse" role="tabpanel" aria-labelledby="headingEight" data-parent="#accordion">
+                                        <div class="card-body">
+
+                                            <p>While neuromuscular services are effective for addressing TMJ pain, at-home remedies may include applying heat or cold packs, practicing
+                                                relaxation techniques, and avoiding hard or chewy foods.
+                                            </p>
+
+                                        </div>
+                                    </div>
+
+                                </div>
+                                <!-- ACCORDION CARD #4 -->
+                                <div class="card no-border">
+
+                                    <!-- Card Title -->
+                                    <div class="card-header" role="tab" id="headingFour">
+                                        <h5 class="h5-xs">
+                                            <a class="collapsed" data-toggle="collapse" href="#collapseFour" role="button" aria-expanded="false" aria-controls="collapseFour">
+                                                Is neuromuscular dentistry suitable for everyone?
+                                            </a>
+                                        </h5>
+                                    </div>
+
+                                    <!-- Card Content -->
+                                    <div id="collapseFour" class="collapse" role="tabpanel" aria-labelledby="headingFour" data-parent="#accordion">
+                                        <div class="card-body">
+
+                                            <!-- Text -->
+                                            <p> Neuromuscular dentistry is suitable for individuals experiencing symptoms
+                                                of TMJ disorders or issues related to jaw function. A thorough examination by a dentist can determine the
+                                                suitability of neuromuscular services for an individual.
+                                            </p>
+
+                                        </div>
+                                    </div>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+
+
+                    <!-- SIDEBAR -->
+                    <aside id="sidebar" class="col-lg-4">
+
+
+                        <!-- TEXT WIDGET -->
+                        <div id="txt-widget" class="sidebar-div mb-50">
+
+                            <!-- Title -->
+
+
+
+                            <!-- Head of Clinic -->
+                            <div class="txt-widget-unit mb-15 clearfix d-flex align-items-center">
+
+                                <!-- Avatar -->
+                                <!-- <div class="txt-widget-avatar">
+                                    <img src="images/head-of-clinic.jpg" alt="testimonial-avatar">
+                                </div> -->
+
+                                <!-- Data -->
+                                <!-- <div class="txt-widget-data">
+                                    <h5 class="h5-md steelblue-color">Dr. Jonathan Barnes</h5>
+                                    <span>Chief Medical Officer, Founder</span>
+                                    <p class="blue-color">1-800-1234-567</p>
+                                </div> -->
+
+                            </div> <!-- End Head of Clinic -->
+
+                            <!-- Text -->
+                            <!-- <p class="p-sm">An enim nullam tempor sapien at gravida donec pretium ipsum porta justo
+                                integer at odiovelna vitae auctor integer congue magna purus
+                            </p> -->
+
+                            <!-- Button -->
+                            <!-- <a href="about.php" class="btn btn-blue blue-hover">Learn More</a> -->
+
+                        </div> <!-- END TEXT WIDGET -->
+
+
+                        <!-- SIDEBAR TABLE -->
+                        <div class="sidebar-table blue-table sidebar-div mb-50">
+
+                            <!-- Title -->
+                            <h5 class="h5-md">Working Time</h5>
+
+                            <!-- Text -->
+                            <!-- <p class="p-sm">Porta semper lacus cursus, feugiat primis ultrice ligula risus auctor at
+                                tempus feugiat dolor lacinia cursus nulla vitae massa
+                            </p> -->
+
+                            <!-- Table -->
+                            <table class="table">
+                                <tbody>
+                                    <tr>
+                                        <td>Mon – Sat</td>
+                                        <td> - </td>
+                                        <td class="text-right">11:00 AM - 09:00 PM</td>
+                                    </tr>
+
+
+
+
+                                    <tr class="last-tr">
+                                        <td>Sun</td>
+                                        <td>-</td>
+                                        <td class="text-right">CLOSED</td>
+                                    </tr>
+
+                                </tbody>
+                            </table>
+
+                            <!-- Title -->
+                            <h5 class="h5-xs">Need a personal health plan?</h5>
+
+                            <!-- Text -->
+
+
+
+                            <a href="#" class="btn btn-blue blue-hover">Visit Us</a>
+
+                        </div> <!-- END SIDEBAR TABLE -->
+
+
+                        <!-- SIDEBAR TIMETABLE -->
+
+
+
+
+                    </aside> <!-- END SIDEBAR -->
+
+
+                </div> <!-- End row -->
+            </div> <!-- End container -->
+        </section>
 
 
 

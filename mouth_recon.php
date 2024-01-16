@@ -117,7 +117,7 @@
 							</nav> -->
 
                             <!-- Title -->
-                            <h1 class="h2-sm steelblue-color">Gum Treatment</h1>
+                            <h1 class="h2-sm steelblue-color">Full Mouth Reconstruction</h1>
 
                         </div>
                     </div>
@@ -140,12 +140,12 @@
                         <div class="s1-page content-block text-center">
 
                             <!-- Title -->
-                            <h3 class="h3-xl blue-color">Why need for Gum Treatment Services</h3>
+                            <h3 class="h3-xl blue-color">Why need for Full Mouth Reconstruction</h3>
                             <!-- <h4 class="h4-md blue-color">Maecenas gravida porttitor nunc, magna luctus tempor viverra</h4> -->
 
                             <!-- Text -->
-                            <p class="p-lg">Healthy gums are the foundation of a healthy smile. They provide vital support for your teeth and act as a barrier against harmful bacteria. However, if left untreated, gum disease can wreak havoc on your
-                                 oral health and even have negative consequences for your overall well-being.</p>
+                            <p class="p-lg">While individual dental treatments address specific issues, full mouth reconstruction takes a holistic approach, transforming your
+                                entire oral cavity for optimal health, function, and aesthetics.</p>
 
                             <!-- Text -->
                             <p class="p-lg">
@@ -161,7 +161,7 @@
                 <div class="row">
                     <div class="col-md-12">
                         <div class="content-block-img text-center">
-                            <img class="img-fluid" src="images\Dentalive-images\dentist-examining-female-patient-with-tools_107420-65513.jpg" alt="content-image">
+                            <img class="img-fluid" src="images\Dentalive-images\young-man-sitting-mouth-wide-open-office-dentist-annual-examination_1098-20340.jpg" alt="content-image">
                         </div>
                     </div>
                 </div>
@@ -173,13 +173,14 @@
                         <div class="s1-page content-block text-center mb-40">
 
                             <!-- Text -->
-                            <p class="p-lg">Gum disease, also known as periodontal disease, is a progressive infection of the tissues 
-                                surrounding your teeth. It's caused by plaque, a sticky film of bacteria that constantly builds up on your teeth. If plaque isn't removed regularly through brushing and flossing, it can harden into tartar,
-                                which further irritates the gums and creates a breeding ground for bacteria.                            </p>
+                            <p class="p-lg"> Full mouth reconstruction is essential for comprehensive oral rehabilitation.
+                                It addresses multiple dental issues simultaneously, restoring both function and aesthetics.
+                            </p>
 
                             <!-- Text -->
-                            <p class="p-lg"> If gingivitis is left untreated, it can progress to periodontitis, which damages the supporting structures of your teeth, including the bone.
-                                This can lead to loose teeth, tooth loss, and even jawbone deterioration.
+                            <p class="p-lg">Individuals with complex dental problems, such as extensive decay, trauma, or congenital issues,
+                                benefit from full mouth reconstruction.
+                                It provides a holistic approach to address a range of oral health issues.
                             </p>
 
                             <!-- Button -->
@@ -199,252 +200,6 @@
         </div> <!-- END SERVICE DETAILS -->
 
 
-
-        <section id="faqs-page" class="wide-80 faqs-section division">
-            <div class="container">
-                <h3 class="h3-md steelblue-color text-center">Frequently Asked Questions</h3>
-                <br>
-                <div class="row">
-
-                    <!-- QUESTIONS HOLDER -->
-                    <div class="col-lg-8">
-                        <div class="questions-holder pr-30">
-                            <!-- QUESTIONS ACCORDION -->
-                            <div id="accordion" role="tablist">
-
-
-
-                                <div class="card">
-
-                                    <!-- Card Title -->
-                                    <div class="card-header" role="tab" id="headingOne">
-                                        <h5 class="h5-xs">
-                                            <a data-toggle="collapse" href="#collapseOne" role="button" aria-expanded="true" aria-controls="collapseOne">
-                                            How do I know if I need gum treatment?
-                                            </a>
-                                        </h5>
-                                    </div>
-
-                                    <!-- Card Content -->
-                                    <div id="collapseOne" class="collapse show" role="tabpanel" aria-labelledby="headingOne" data-parent="#accordion">
-                                        <div class="card-body">
-
-                                            <!-- Text -->
-                                            <p>Common signs include bleeding gums, persistent bad breath, gum recession, and increased tooth sensitivity.
-                                                Regular dental check-ups can help detect early signs of gum issues.
-                                            </p>
-
-                                        </div>
-                                    </div>
-
-                                </div> <!-- END ACCORDION CARD #1 -->
-
-
-                                <!-- ACCORDION CARD #2 -->
-                                <div class="card">
-
-                                    <!-- Card Title -->
-                                    <div class="card-header" role="tab" id="headingTwo">
-                                        <h5 class="h5-xs">
-                                            <a class="collapsed" data-toggle="collapse" href="#collapseTwo" role="button" aria-expanded="false" aria-controls="collapseTwo">
-                                            What is scaling and root planing?
-                                            </a>
-                                        </h5>
-                                    </div>
-
-                                    <!-- Card Content -->
-                                    <div id="collapseTwo" class="collapse" role="tabpanel" aria-labelledby="headingTwo" data-parent="#accordion">
-                                        <div class="card-body">
-
-                                            <p>
-                                            Scaling involves removing plaque and tartar from the tooth surface and below the gumline.
-                                            Root planing smoothens the tooth roots to prevent bacteria accumulation.
-                                            It is a common non-surgical gum treatment.
-                                            </p>
-
-                                        </div>
-                                    </div>
-
-                                </div>
-                                <div class="card">
-
-                                    <!-- Card Title -->
-                                    <div class="card-header" role="tab" id="headingThree">
-                                        <h5 class="h5-xs">
-                                            <a class="collapsed" data-toggle="collapse" href="#collapseThree" role="button" aria-expanded="false" aria-controls="collapseThree">
-                                            Is gum treatment painful?
-                                            </a>
-                                        </h5>
-                                    </div>
-
-                                    <!-- Card Content -->
-                                    <div id="collapseThree" class="collapse" role="tabpanel" aria-labelledby="headingThree" data-parent="#accordion">
-                                        <div class="card-body">
-
-                                            <!-- Text -->
-                                            <p>Modern gum treatments are typically performed with local anesthesia to minimize discomfort.
-                                                Post-treatment, any mild soreness can be managed with over-the-counter pain relievers.
-                                            </p>
-
-                                            <!-- List -->
-
-
-
-                                        </div>
-                                    </div>
-
-                                </div> <!-- END ACCORDION CARD #3 -->
-
-                                <div class="card">
-
-                                    <!-- Card Title -->
-                                    <div class="card-header" role="tab" id="headingEight">
-                                        <h5 class="h5-xs">
-                                            <a class="collapsed" data-toggle="collapse" href="#collapseEight" role="button" aria-expanded="false" aria-controls="collapseEight">
-                                            How long does gum treatment take?
-                                            </a>
-                                        </h5>
-                                    </div>
-
-                                    <!-- Card Content -->
-                                    <div id="collapseEight" class="collapse" role="tabpanel" aria-labelledby="headingEight" data-parent="#accordion">
-                                        <div class="card-body">
-
-                                            <p>The duration varies based on the severity of the gum issue.
-                                                Scaling and root planing can take one or more appointments,
-                                                each lasting about 60 to 90 minutes.
-                                            </p>
-
-                                        </div>
-                                    </div>
-
-                                </div>
-                                <!-- ACCORDION CARD #4 -->
-                                <div class="card no-border">
-
-                                    <!-- Card Title -->
-                                    <div class="card-header" role="tab" id="headingFour">
-                                        <h5 class="h5-xs">
-                                            <a class="collapsed" data-toggle="collapse" href="#collapseFour" role="button" aria-expanded="false" aria-controls="collapseFour">
-                                            How often should I have gum treatments?
-                                            </a>
-                                        </h5>
-                                    </div>
-
-                                    <!-- Card Content -->
-                                    <div id="collapseFour" class="collapse" role="tabpanel" aria-labelledby="headingFour" data-parent="#accordion">
-                                        <div class="card-body">
-
-                                            <!-- Text -->
-                                            <p>The frequency depends on individual oral health needs.
-                                                Some may require gum treatments as part of routine dental care,
-                                                while others may need them on a more targeted basis.
-                                            </p>
-
-                                        </div>
-                                    </div>
-
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-
-
-                    <!-- SIDEBAR -->
-                    <aside id="sidebar" class="col-lg-4">
-
-
-                        <!-- TEXT WIDGET -->
-                        <div id="txt-widget" class="sidebar-div mb-50">
-
-                            <!-- Title -->
-
-
-
-                            <!-- Head of Clinic -->
-                            <div class="txt-widget-unit mb-15 clearfix d-flex align-items-center">
-
-                                <!-- Avatar -->
-                                <!-- <div class="txt-widget-avatar">
-                                    <img src="images/head-of-clinic.jpg" alt="testimonial-avatar">
-                                </div> -->
-
-                                <!-- Data -->
-                                <!-- <div class="txt-widget-data">
-                                    <h5 class="h5-md steelblue-color">Dr. Jonathan Barnes</h5>
-                                    <span>Chief Medical Officer, Founder</span>
-                                    <p class="blue-color">1-800-1234-567</p>
-                                </div> -->
-
-                            </div> <!-- End Head of Clinic -->
-
-                            <!-- Text -->
-                            <!-- <p class="p-sm">An enim nullam tempor sapien at gravida donec pretium ipsum porta justo
-                                integer at odiovelna vitae auctor integer congue magna purus
-                            </p> -->
-
-                            <!-- Button -->
-                            <!-- <a href="about.php" class="btn btn-blue blue-hover">Learn More</a> -->
-
-                        </div> <!-- END TEXT WIDGET -->
-
-
-                        <!-- SIDEBAR TABLE -->
-                        <div class="sidebar-table blue-table sidebar-div mb-50">
-
-                            <!-- Title -->
-                            <h5 class="h5-md">Working Time</h5>
-
-                            <!-- Text -->
-                            <!-- <p class="p-sm">Porta semper lacus cursus, feugiat primis ultrice ligula risus auctor at
-                                tempus feugiat dolor lacinia cursus nulla vitae massa
-                            </p> -->
-
-                            <!-- Table -->
-                            <table class="table">
-                                <tbody>
-                                    <tr>
-                                        <td>Mon – Sat</td>
-                                        <td> - </td>
-                                        <td class="text-right">11:00 AM - 09:00 PM</td>
-                                    </tr>
-
-
-
-
-                                    <tr class="last-tr">
-                                        <td>Sun</td>
-                                        <td>-</td>
-                                        <td class="text-right">CLOSED</td>
-                                    </tr>
-
-                                </tbody>
-                            </table>
-
-                            <!-- Title -->
-                            <h5 class="h5-xs">Need a personal health plan?</h5>
-
-                            <!-- Text -->
-
-
-
-                            <a href="#" class="btn btn-blue blue-hover">Visit Us</a>
-
-                        </div> <!-- END SIDEBAR TABLE -->
-
-
-                        <!-- SIDEBAR TIMETABLE -->
-
-
-
-
-                    </aside> <!-- END SIDEBAR -->
-
-
-                </div> <!-- End row -->
-            </div> <!-- End container -->
-        </section>
 
 
         <!-- TESTIMONIALS-2
@@ -734,8 +489,253 @@
 
         <!-- FAQ -->
 
-      
-        
+        <section id="faqs-page" class="wide-80 faqs-section division">
+            <div class="container">
+                <h3 class="h3-md steelblue-color text-center">Frequently Asked Questions</h3>
+                <br>
+                <div class="row">
+
+                    <!-- QUESTIONS HOLDER -->
+                    <div class="col-lg-8">
+                        <div class="questions-holder pr-30">
+                            <!-- QUESTIONS ACCORDION -->
+                            <div id="accordion" role="tablist">
+
+
+
+                                <div class="card">
+
+                                    <!-- Card Title -->
+                                    <div class="card-header" role="tab" id="headingOne">
+                                        <h5 class="h5-xs">
+                                            <a data-toggle="collapse" href="#collapseOne" role="button" aria-expanded="true" aria-controls="collapseOne">
+                                                What is full mouth reconstruction?
+                                            </a>
+                                        </h5>
+                                    </div>
+
+                                    <!-- Card Content -->
+                                    <div id="collapseOne" class="collapse show" role="tabpanel" aria-labelledby="headingOne" data-parent="#accordion">
+                                        <div class="card-body">
+
+                                            <!-- Text -->
+                                            <p> Full mouth reconstruction is a comprehensive dental treatment that involves
+                                                addressing multiple oral health issues simultaneously. It may include procedures like dental implants,
+                                                crowns, bridges, and other restorative and cosmetic interventions.
+                                            </p>
+
+                                        </div>
+                                    </div>
+
+                                </div> <!-- END ACCORDION CARD #1 -->
+
+
+                                <!-- ACCORDION CARD #2 -->
+                                <div class="card">
+
+                                    <!-- Card Title -->
+                                    <div class="card-header" role="tab" id="headingTwo">
+                                        <h5 class="h5-xs">
+                                            <a class="collapsed" data-toggle="collapse" href="#collapseTwo" role="button" aria-expanded="false" aria-controls="collapseTwo">
+                                                Who is a candidate for full mouth reconstruction?
+                                            </a>
+                                        </h5>
+                                    </div>
+
+                                    <!-- Card Content -->
+                                    <div id="collapseTwo" class="collapse" role="tabpanel" aria-labelledby="headingTwo" data-parent="#accordion">
+                                        <div class="card-body">
+
+                                            <p>
+                                                Individuals with extensive dental issues, such as missing teeth, severe decay, gum disease,
+                                                or bite misalignment, may be candidates for full mouth reconstruction.
+                                                A dentist evaluates each case to determine candidacy.
+                                            </p>
+
+                                        </div>
+                                    </div>
+
+                                </div>
+                                <div class="card">
+
+                                    <!-- Card Title -->
+                                    <div class="card-header" role="tab" id="headingThree">
+                                        <h5 class="h5-xs">
+                                            <a class="collapsed" data-toggle="collapse" href="#collapseThree" role="button" aria-expanded="false" aria-controls="collapseThree">
+                                                How long does full mouth reconstruction take?
+                                            </a>
+                                        </h5>
+                                    </div>
+
+                                    <!-- Card Content -->
+                                    <div id="collapseThree" class="collapse" role="tabpanel" aria-labelledby="headingThree" data-parent="#accordion">
+                                        <div class="card-body">
+
+                                            <!-- Text -->
+                                            <p> The duration of full mouth reconstruction varies based on the
+                                                complexity of the case and the procedures involved.
+                                                Treatment timelines are established after a thorough examination and consultation.
+                                            </p>
+
+                                            <!-- List -->
+
+
+
+                                        </div>
+                                    </div>
+
+                                </div> <!-- END ACCORDION CARD #3 -->
+
+                                <div class="card">
+
+                                    <!-- Card Title -->
+                                    <div class="card-header" role="tab" id="headingEight">
+                                        <h5 class="h5-xs">
+                                            <a class="collapsed" data-toggle="collapse" href="#collapseEight" role="button" aria-expanded="false" aria-controls="collapseEight">
+                                                Is full mouth reconstruction painful?
+                                            </a>
+                                        </h5>
+                                    </div>
+
+                                    <!-- Card Content -->
+                                    <div id="collapseEight" class="collapse" role="tabpanel" aria-labelledby="headingEight" data-parent="#accordion">
+                                        <div class="card-body">
+
+                                            <p>The procedure is performed under anesthesia to ensure patient comfort.
+                                                While some discomfort may be experienced during the recovery period, pain management
+                                                measures are in place to minimize any potential discomfort.
+                                            </p>
+
+                                        </div>
+                                    </div>
+
+                                </div>
+                                <!-- ACCORDION CARD #4 -->
+                                <div class="card no-border">
+
+                                    <!-- Card Title -->
+                                    <div class="card-header" role="tab" id="headingFour">
+                                        <h5 class="h5-xs">
+                                            <a class="collapsed" data-toggle="collapse" href="#collapseFour" role="button" aria-expanded="false" aria-controls="collapseFour">
+                                                Are there alternatives to full mouth reconstruction?
+                                            </a>
+                                        </h5>
+                                    </div>
+
+                                    <!-- Card Content -->
+                                    <div id="collapseFour" class="collapse" role="tabpanel" aria-labelledby="headingFour" data-parent="#accordion">
+                                        <div class="card-body">
+
+                                            <!-- Text -->
+                                            <p>Alternatives may include addressing specific dental issues individually rather
+                                                than comprehensively. However, full mouth reconstruction is recommended for
+                                                cases requiring a holistic approach to oral rehabilitation.
+                                            </p>
+
+                                        </div>
+                                    </div>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+
+
+                    <!-- SIDEBAR -->
+                    <aside id="sidebar" class="col-lg-4">
+
+
+                        <!-- TEXT WIDGET -->
+                        <div id="txt-widget" class="sidebar-div mb-50">
+
+                            <!-- Title -->
+
+
+
+                            <!-- Head of Clinic -->
+                            <div class="txt-widget-unit mb-15 clearfix d-flex align-items-center">
+
+                                <!-- Avatar -->
+                                <!-- <div class="txt-widget-avatar">
+                                    <img src="images/head-of-clinic.jpg" alt="testimonial-avatar">
+                                </div> -->
+
+                                <!-- Data -->
+                                <!-- <div class="txt-widget-data">
+                                    <h5 class="h5-md steelblue-color">Dr. Jonathan Barnes</h5>
+                                    <span>Chief Medical Officer, Founder</span>
+                                    <p class="blue-color">1-800-1234-567</p>
+                                </div> -->
+
+                            </div> <!-- End Head of Clinic -->
+
+                            <!-- Text -->
+                            <!-- <p class="p-sm">An enim nullam tempor sapien at gravida donec pretium ipsum porta justo
+                                integer at odiovelna vitae auctor integer congue magna purus
+                            </p> -->
+
+                            <!-- Button -->
+                            <!-- <a href="about.php" class="btn btn-blue blue-hover">Learn More</a> -->
+
+                        </div> <!-- END TEXT WIDGET -->
+
+
+                        <!-- SIDEBAR TABLE -->
+                        <div class="sidebar-table blue-table sidebar-div mb-50">
+
+                            <!-- Title -->
+                            <h5 class="h5-md">Working Time</h5>
+
+                            <!-- Text -->
+                            <!-- <p class="p-sm">Porta semper lacus cursus, feugiat primis ultrice ligula risus auctor at
+                                tempus feugiat dolor lacinia cursus nulla vitae massa
+                            </p> -->
+
+                            <!-- Table -->
+                            <table class="table">
+                                <tbody>
+                                    <tr>
+                                        <td>Mon – Sat</td>
+                                        <td> - </td>
+                                        <td class="text-right">11:00 AM - 09:00 PM</td>
+                                    </tr>
+
+
+
+
+                                    <tr class="last-tr">
+                                        <td>Sun</td>
+                                        <td>-</td>
+                                        <td class="text-right">CLOSED</td>
+                                    </tr>
+
+                                </tbody>
+                            </table>
+
+                            <!-- Title -->
+                            <h5 class="h5-xs">Need a personal health plan?</h5>
+
+                            <!-- Text -->
+
+
+
+                            <a href="#" class="btn btn-blue blue-hover">Visit Us</a>
+
+                        </div> <!-- END SIDEBAR TABLE -->
+
+
+                        <!-- SIDEBAR TIMETABLE -->
+
+
+
+
+                    </aside> <!-- END SIDEBAR -->
+
+
+                </div> <!-- End row -->
+            </div> <!-- End container -->
+        </section>
 
 
 

@@ -68,8 +68,8 @@
 					<p class="foo-email mt-20">
 					
 					
-						<a href="mailto:yourdomain@mail.com">dr.mitu.shandilya@gmail.com</a>,
-						<a href="mailto:yourdomain@mail.com">mydentalive@gmail.com</a>
+						<a href="dr.mitu.shandilya@gmail.com">dr.mitu.shandilya@gmail.com</a>,
+						<a href="mydentalive@gmail.com">mydentalive@gmail.com</a>
 					</p>
 
 					<!-- Phone -->

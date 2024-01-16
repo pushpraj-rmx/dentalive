@@ -1,5 +1,3 @@
-
-
 <!DOCTYPE html>
 <!-- MedService - Medical & Medical Health Landing Page Template design by Jthemes -->
 <!--[if lt IE 7 ]><html class="ie ie6" lang="en"> <![endif]-->
@@ -119,7 +117,7 @@
 							</nav> -->
 
                             <!-- Title -->
-                            <h1 class="h2-sm steelblue-color">Orthodontic Services</h1>
+                            <h1 class="h2-sm steelblue-color">Cosmetic Dentistry</h1>
 
                         </div>
                     </div>
@@ -142,13 +140,13 @@
                         <div class="s1-page content-block text-center">
 
                             <!-- Title -->
-                            <h3 class="h3-xl blue-color">Why need for Orthodontic Services</h3>
+                            <h3 class="h3-xl blue-color">Why need for Cosmetic Dentistry Services</h3>
                             <!-- <h4 class="h4-md blue-color">Maecenas gravida porttitor nunc, magna luctus tempor viverra</h4> -->
 
                             <!-- Text -->
-                            <p class="p-lg">Orthodontic treatment can help to prevent cavities and
-                                gum disease by making it easier to clean your teeth,it can correct bite problems, which can make it easier to
-                                chew and speak,it can sometimes help to relieve pain caused by TMJ disorders.</p>
+                            <p class="p-lg">
+                                Cosmetic dentistry isn't just about vanity; it's about boosting confidence,
+                                improving oral health, and enhancing your overall well-being. </p>
 
                             <!-- Text -->
                             <p class="p-lg">
@@ -164,7 +162,7 @@
                 <div class="row">
                     <div class="col-md-12">
                         <div class="content-block-img text-center">
-                            <img class="img-fluid" src="images\Dentalive-images\orthodontic-1.avif" alt="content-image">
+                            <img class="img-fluid" src="images\Dentalive-images\caries-beauty-adult-background-canal_1303-1838.jpg" alt="content-image">
                         </div>
                     </div>
                 </div>
@@ -176,17 +174,13 @@
                         <div class="s1-page content-block text-center mb-40">
 
                             <!-- Text -->
-                            <p class="p-lg">Ligula risus auctor tempus dolor feugiat, felis lacinia risus interdum
-                                auctor id viverra dolor iaculis luctus bibendum luctus neque rhoncus ipsum tempor varius
-                                iaculis at luctus neque rhoncus ipsum tempor varius cubilia laoreet augue vitae laoreet
-                                augue undo cubilia feugiat suscipit emper lacus cursus
+                            <p class="p-lg">Coffee, tea, wine, and smoking can all take a toll on the whiteness of your teeth. Cosmetic dentistry offers various whitening treatments, like in-office
+                                laser whitening or at-home bleaching kits, to restore a bright, radiant smile.
                             </p>
 
                             <!-- Text -->
-                            <p class="p-lg">An enim nullam tempor sapien gravida donec enim ipsum blandit porta justo
-                                integer odio velna vitae auctor integer congue magna at pretium purus pretium ligula rutrum
-                                vitae laoreet augue posuere and curae integer congue leo metus mollis primis and mauris
-                                iaculis luctus bibendum neque
+                            <p class="p-lg">Crooked or gapped teeth can affect your confidence and even make it difficult to chew properly. Orthodontic treatments like braces or Invisalign can discreetly realign
+                                your teeth for a straighter, more aesthetically pleasing smile.
                             </p>
 
                             <!-- Button -->
@@ -515,7 +509,7 @@
                                     <div class="card-header" role="tab" id="headingOne">
                                         <h5 class="h5-xs">
                                             <a data-toggle="collapse" href="#collapseOne" role="button" aria-expanded="true" aria-controls="collapseOne">
-                                                What age should my child be seen by an orthodontist?
+                                                What are the common cosmetic dentistry procedures?
                                             </a>
                                         </h5>
                                     </div>
@@ -525,10 +519,8 @@
                                         <div class="card-body">
 
                                             <!-- Text -->
-                                            <p>The American Association of Orthodontists recommends that your ch ild be evaluated by age 7. Treatment at this time for certain
-                                                cases is advisable cause the jaws are just developing and growing and intervening at this time will cause benefits in future
-                                                treatment. Early detection of some orthodontic problems is important in order to take early corrective action and avoid more
-                                                difficult treatment later.
+                                            <p>Common cosmetic dentistry procedures include teeth whitening,
+                                                dental veneers, dental bonding, crowns, orthodontics, and smile makeovers.
                                             </p>
 
                                         </div>
@@ -544,7 +536,7 @@
                                     <div class="card-header" role="tab" id="headingTwo">
                                         <h5 class="h5-xs">
                                             <a class="collapsed" data-toggle="collapse" href="#collapseTwo" role="button" aria-expanded="false" aria-controls="collapseTwo">
-                                                What is the length or duration of orthodontic treatment?
+                                                Is teeth whitening safe, and how long do results last?
                                             </a>
                                         </h5>
                                     </div>
@@ -554,8 +546,8 @@
                                         <div class="card-body">
 
                                             <p>
-                                                Braces may be on between 6 months to 30 months, or longer depending on the age of the patient, the severity of the problem,
-                                                the patient’s cooperation, and the degree of movement possible.
+                                                Teeth whitening is generally safe when performed by dental professionals. Results can last from several months to a few years,
+                                                depending on factors such as lifestyle and oral hygiene habits.
                                             </p>
 
                                         </div>
@@ -568,7 +560,7 @@
                                     <div class="card-header" role="tab" id="headingThree">
                                         <h5 class="h5-xs">
                                             <a class="collapsed" data-toggle="collapse" href="#collapseThree" role="button" aria-expanded="false" aria-controls="collapseThree">
-                                                How do I know if my child is in need of orthodontic treatment?
+                                                How do dental veneers improve the appearance of teeth?
                                             </a>
                                         </h5>
                                     </div>
@@ -578,10 +570,8 @@
                                         <div class="card-body">
 
                                             <!-- Text -->
-                                            <p>It is usually difficult for you to determine if treatment is necessary because there are many problems that can occur even though
-                                                the front teeth look straight. Also, there are some problems that look intimidating and complex which will resolve on their own.
-                                                Our initial exam I can evaluate the case and we would be more than happy to see your child and make any recommendations
-                                                necessary.
+                                            <p>IDental veneers are thin shells placed on the front surface of teeth to improve their appearance. They can
+                                                correct issues like discoloration, chips, and gaps, creating a natural and attractive smile.
                                             </p>
 
                                             <!-- List -->
@@ -599,7 +589,7 @@
                                     <div class="card-header" role="tab" id="headingEight">
                                         <h5 class="h5-xs">
                                             <a class="collapsed" data-toggle="collapse" href="#collapseEight" role="button" aria-expanded="false" aria-controls="collapseEight">
-                                                Can you be too old for braces?
+                                                Can cosmetic dentistry fix misaligned teeth?
                                             </a>
                                         </h5>
                                     </div>
@@ -608,8 +598,8 @@
                                     <div id="collapseEight" class="collapse" role="tabpanel" aria-labelledby="headingEight" data-parent="#accordion">
                                         <div class="card-body">
 
-                                            <p>No, age is not a factor, only the health of your gums and bone which support your teeth. About 25% of our orthodontic patients
-                                                are adults and that number is still growing!
+                                            <p>Yes, cosmetic dentistry offers solutions for misaligned teeth. Orthodontic treatments, such as braces or clear aligners,
+                                                can gradually shift teeth into their proper positions.
                                             </p>
 
                                         </div>
@@ -623,7 +613,7 @@
                                     <div class="card-header" role="tab" id="headingFour">
                                         <h5 class="h5-xs">
                                             <a class="collapsed" data-toggle="collapse" href="#collapseFour" role="button" aria-expanded="false" aria-controls="collapseFour">
-                                                Will it hurt?
+                                                Are cosmetic dentistry procedures painful?
                                             </a>
                                         </h5>
                                     </div>
@@ -633,10 +623,8 @@
                                         <div class="card-body">
 
                                             <!-- Text -->
-                                            <p>Orthodontic treatment has improved dramatically. As a rule, braces make your teeth sore for a few days, but it is not painful. This
-                                                annoyance can be relieved with an over-the-counter pain reliever. Today’s braces are smaller, more comfortable and use
-                                                technology that reduces the discomfort. We use the latest in miniature braces and the highest quality of orthodontic materials in
-                                                order to reduce discomfort and treatment time.
+                                            <p> Many cosmetic dentistry procedures are minimally invasive and cause little to no discomfort.
+                                                Local anesthesia is often used to ensure a pain-free experience.
                                             </p>
 
                                         </div>

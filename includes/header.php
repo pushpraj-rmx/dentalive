@@ -1,6 +1,6 @@
 <!-- PRELOADER SPINNER
 		============================================= -->
-
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 <div id="loader-wrapper">
     <div id="loader">
         <div class="loader-inner"></div>
@@ -53,7 +53,9 @@
     <!-- MOBILE HEADER -->
     <div class="wsmobileheader clearfix">
         <a id="wsnavtoggle" class="wsanimated-arrow"><span></span></a>
-        <span class="smllogo"><img src="images\logo\dentalive_logo-removebg-preview.png" width="150" height="55px" /></span>
+        <span class="smllogo">
+            <a href="index.php"><img src="images\logo\dentalive_logo-removebg-preview.png" width="150" height="55px" /></a>
+        </span>
         <a href="tel:123456789" class="callusbtn"><i class="fas fa-phone"></i></a>
     </div>
 
@@ -109,7 +111,7 @@
                                 </div>
                             </div> -->
                             <div class="header-button">
-                                <span class="nl-simple header-btn blue-hover"><a href="#">Book Appointment</a></span>
+                                <span class="nl-simple header-btn blue-hover"><a href="contacts-2.php">Book Appointment</a></span>
                             </div>
 
                         </div>
@@ -136,7 +138,9 @@
 
 
                     <!-- DROPDOWN MENU -->
-                    <li aria-haspopup="true"><a href="#">About Us <span class="wsarrow"></span></a>
+                    <li aria-haspopup="true"><a href="index.php">Home<span class="wsarrow"></span></a>
+
+                    <li aria-haspopup="true"><a href="about-us.php">About Us <span class="wsarrow"></span></a>
                         <!-- <ul class="sub-menu">
                                 <li aria-haspopup="true"><a href="demo-1.php">Home Concept #1</a></li>
                                 <li aria-haspopup="true"><a href="demo-2.php">Home Concept #2</a></li>
@@ -154,7 +158,7 @@
 
 
                     <!-- PAGES -->
-                    <li aria-haspopup="true"><a href="#">Services <span class="wsarrow"></span></a>
+                    <li aria-haspopup="true"><a href="all-services.php">Services <span class="wsarrow"></span></a>
                         <!-- <div class="wsmegamenu clearfix">
                                 <div class="container">
                                     <div class="row">
@@ -214,42 +218,16 @@
 
 
                     <!-- HALF MENU -->
-                    <li aria-haspopup="true"><a href="#">Testimonial <span class="wsarrow"></span></a>
-                        <!-- <div class="wsmegamenu clearfix halfmenu">
-                                <div class="container-fluid">
-                                    <div class="row">
-
-                                      
-                                    
-                                        <ul class="col-lg-6 col-md-12 col-xs-12 link-list">
-                                            <li class="title">For Patients:</li>
-                                            <li><a href="#">Meet The Doctors</a></li>
-                                            <li><a href="#">Patient Info Sheets</a></li>
-                                            <li><a href="#">Online Patients Portal</a></li>
-                                            <li><a href="#">Patients Testimonials</a></li>
-                                            <li><a href="#">Blog & Latest News</a></li>
-                                        </ul>
-
-                                        
-                                        
-                                        <ul class="col-lg-6 col-md-12 col-xs-12 link-list">
-                                            <li class="title">Quick Links:</li>
-                                            <li><a href="#">Terms & Privacy Policy</a></li>
-                                            <li><a href="#">Donor Privacy Policy</a></li>
-                                            <li><a href="#">Workers Compensation</a></li>
-                                            <li><a href="#">Insurance Information</a></li>
-                                            <li><a href="#">After Hours Care</a></li>
-                                        </ul>
-
-                                    </div>
-                                </div>
-                            </div> -->
+                    <li aria-haspopup="true"><a href="index.php#reviews-2">Testimonial <span class="wsarrow"></span></a>
                     </li> <!-- END HALF MENU -->
+
+                    <li aria-haspopup="true"><a href="contacts-2.php">Contact Us<span class="wsarrow"></span></a>
+
 
 
                     <!-- MEGAMENU -->
-                    <li aria-haspopup="true"><a href="#">Contact Us<span class="wsarrow"></span></a>
 
+                    
 
 
                     </li> <!-- END MEGAMENU -->
@@ -259,7 +237,7 @@
                     <!-- <li class="nl-simple" aria-haspopup="true"><a href="#">Simple Link</a></li> -->
 
                     <!-- HIDDEN NAVIGATION MENU BUTTON -->
-                    <li class="nl-simple header-btn mobile-hidden" aria-haspopup="true"><a class="blue-hover" href="#">Book Appointment</a></li>
+                    <li class="nl-simple header-btn mobile-hidden" aria-haspopup="true"><a class="blue-hover" href="contacts-2.php">Book Appointment</a></li>
 
 
                 </ul>
@@ -275,5 +253,48 @@
         </div>
     </div> <!-- END NAVIGATION MENU -->
 
+<!-- social media sidebar -->
+<div id="social-sidebar" class="sidebar-fixed">
+        <aside class="sidebar-content">
+            <div class="side-social-icons">
+                <div href="#" class="facebook">
+                    <a href=""><i class="fab fa-facebook-square"></i>Facebook</a>
+                </div>
+                <!-- <div href="#" class="twitter">
+                    <a href=""><i class="fa-brands fa-x-twitter"></i>Twitter</a>
+                </div>
+                <div href="#" class="linkedin">
+                    <a href=""><i class="fab fa-linkedin"></i>LinkedIn</a>
+                </div> -->
+                <div href="#" class="whatsapp">
+                    <a href=""><i class="fab fa-whatsapp"></i>WhatsApp</a>
+                </div>
+                <div href="#" class="instagram">
+                    <a href=""><i class="fab fa-instagram"></i>Instagram</a>
+                </div>
+                <div href="#" class="youtube">
+                    <a href=""><i class="fab fa-youtube"></i>YouTube</a>
+                </div>
+            </div>
+        </aside>
+    </div>
+
 
 </header> <!-- END HEADER -->
+ 
+
+
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+
+        document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+            anchor.addEventListener("click", function(e) {
+                e.preventDefault();
+
+                document.querySelector(this.getAttribute("href")).scrollIntoView({
+                    behavior: "smooth"
+                });
+            });
+        });
+    });
+</script>

@@ -100,13 +100,13 @@
 
 										<!-- Title -->
 										<!-- <h5 class="blue-color">Welcome to Dentalive Services</h5> -->
-										<h2 class="steelblue-color">Welcome to Dentalive Services</h2>
+										<h2 class="steelblue-color">Our Mission</h2>
 
 										<!-- CONTENT BOX #1 -->
 										<div class="box-list">
-											<div class="box-list-icon"><i class="fas fa-genderless"></i></div>
-											<p class="p-md">At Dentalive, we prioritize your comfort and satisfaction. Our comprehensive services encompass
-												everything you need for a healthy and radiant smile.
+											<div class="box-list-icon"></div>
+											<p class="p-md">Our mission is to promote oral health by providing excellence in every aspect of our practice and raise awareness by educating our patients to take an active role in their
+												oral health care and make informed decisions for a lifetime.
 
 
 											</p>
@@ -123,7 +123,7 @@
 									</div>
 								</div>
 							</div> <!-- End row -->
-							<a href="#" class="btn btn-blue blue-hover">Visit Us</a>
+							<a href="contacts-2.php" class="btn btn-blue blue-hover">Visit Us</a>
 						</div> <!-- End container -->
 					</div> <!-- End Image Caption -->
 
@@ -145,11 +145,10 @@
 
 										<!-- Title -->
 										<!-- <h5 class="blue-color">Why Choose Us</h5> -->
-										<h2 class="steelblue-color">Why Choose Us</h2>
+										<h2 class="steelblue-color">Vision</h2>
 
 										<!-- Text -->
-										<p class="p-md">Experience exceptional dental services with a caring touch.
-											Our vision is to be the one stop solution for oral health care in our community.
+										<p class="p-md">Our vision is to be the one stop solution for oral health care in our community.
 
 										</p>
 
@@ -180,7 +179,7 @@
 									<div class="caption-txt">
 
 										<!-- Title -->
-										<h5 class="blue-color">Achieve a Healthier Smile with Straighter Teeth!</h5>
+										<!-- <h5 class="blue-color">Achieve a Healthier Smile with Straighter Teeth!</h5> -->
 										<h2 class="steelblue-color">Crafting Radiant Smiles </h2>
 
 										<!-- Option Box #1 -->
@@ -211,6 +210,138 @@
 		</div> <!-- END SLIDER -->
 	</section> <!-- END HERO-7 -->
 
+	<!-- about us  start-->
+	<section id="info-4" class="wide-100 info-section division">
+		<div class="container">
+
+
+			<!-- TOP ROW -->
+			<div class="top-row mb-80">
+				<div class="row d-flex align-items-center">
+
+
+					<!-- INFO IMAGE -->
+					<div class="col-lg-6">
+						<div class="info-4-img text-center wow fadeInUp" data-wow-delay="0.6s">
+							<img class="img-fluid" src="images\Dentalive-images\WhatsApp Image 2024-01-10 at 18.56.46_08b9706a.jpg" alt="info-image">
+						</div>
+					</div>
+
+
+					<!-- INFO TEXT -->
+					<div class="col-lg-6">
+						<div class="txt-block pc-30 wow fadeInUp" data-wow-delay="0.4s">
+
+							<!-- Section ID -->
+							<!-- <span class="section-id blue-color">Welcome to Dentalive</span> -->
+							<h3 class="h3-md steelblue-color text-center">Dr. Mitu Kumari</h3>
+
+
+							<!-- Title -->
+
+
+							<!-- Text -->
+							<p>Dr. Mitu Kumari is founder and director of Dentalive Multispeciality dental clinic. Coming
+								from the family having strong ethical values the field of medicine was the obvious choice
+								for her .she completed five year course in dentistry from D. Y. Patil Dental University,
+								Mumbai in 2008, a M.PHIL in hospital and health system management degree holder
+								from BITS ,Pilani. As for her work experience , she has been employed as faculty with
+								two renowned dental organisations and worked as resident dentist for two clinics . Her
+								managerial skills fetched her a job in renowned hospital as chief operating officer ,
+								which brought her experience beyond dentistry .
+							</p>
+
+							<!-- Text -->
+							<p>With a clinical experience of more than 6 years in general dentistry, she believes that
+								dentistry goes beyond teeth so providing comfort with the best of the doctors and
+								cutting edge technology in a sophisticated and calm ambience being her top priorities To keep
+								abreast of recent advancements she regularly attends various continuing dental
+								education programmes. She wishes to raise awareness about oral hygiene and helping
+								people to make great oral health a realistic priority .
+							</p>
+
+							<!-- Singnature -->
+							<div class="singnature mt-35">
+
+								<!-- Text -->
+								<!-- <p class="p-small mb-15"><b>Dr Mitu Kumari</b></p> -->
+
+								<!-- Singnature Image -->
+								<!-- Recommended sizes for Retina Ready displays is 400x68px; -->
+								<!-- <img class="img-fluid" src="images/signature.png" width="200" height="34" alt="signature-image" /> -->
+
+							</div>
+
+						</div>
+					</div> <!-- END TEXT BLOCK -->
+
+
+				</div> <!-- End row -->
+			</div> <!-- END TOP ROW -->
+
+
+			<!-- BOTTOM ROW -->
+			<div class="bottom-row">
+				<div class="row d-flex align-items-center">
+
+
+					<!-- INFO TEXT -->
+					<div class="col-lg-6">
+						<div class="txt-block pc-30 wow fadeInUp" data-wow-delay="0.4s">
+
+							<!-- Section ID -->
+							<!-- <span class="section-id blue-color">About Dentalive</span> -->
+
+							<!-- Title -->
+							<h3 class="h3-md steelblue-color">About Dentalive</h3>
+
+							<!-- Text -->
+							<p class="mb-30">Dentalive Multispecialty dental clinic is situated in a peaceful location of Nerul east
+								offering dental care to all age groups in a relaxing and comfortable ambience
+
+								An ideal place if you are seeking specialized and trained dentists from all fields of
+								dentistry. We believe dentistry goes beyond teeth so We assure you get an unparalleled
+								experience in dental care.
+							</p>
+
+							<p class="mb-30">
+								Hygiene is an essential factor for us. Hence, We take utmost care to ensure sterilization
+								of instruments and equipment to prevent contamination. We follow strict infection
+								control protocols
+							</p>
+
+							<p class="mb-30">At Dentalive we help you to make great oral health a realistic priority. best standards
+								are maintained at all times to provide complete oral rehabilitation.
+
+								Dentists from all fields of dentistry are selected to ensure that All surgeries and
+								treatments are done by skilful doctors with a plethora of experience in the field so that
+								you are in the best hands always
+							</p>
+
+							<!-- Options List -->
+
+							<!-- End Options List -->
+
+						</div>
+					</div> <!-- END INFO TEXT -->
+
+
+					<!-- INFO IMAGE -->
+					<div class="col-lg-6">
+						<div class="info-4-img text-center wow fadeInUp" data-wow-delay="0.6s">
+							<img class="img-fluid" src="images/emergency_help_700x800.jpg" alt="info-image">
+						</div>
+					</div>
+
+
+				</div> <!-- End row -->
+			</div> <!-- END BOTTOM ROW -->
+
+
+		</div> <!-- End container -->
+	</section>
+
+	<!-- about us end -->
 
 
 
@@ -240,15 +371,17 @@
 				<!-- SERVICE BOX #1 -->
 				<div class="col-sm-6 col-lg-3">
 					<div class="sbox-2 wow fadeInUp" data-wow-delay="0.4s">
-						<a href="#">
+						<a href="comprehensive.php ">
 
 							<!-- Icon  -->
-							<div class="sbox-2-icon">
-								<!-- <img class="img-80" src="images/icons/braces.png" alt="service-icon" /> -->
+							<div class="">
+							 <img class="img-80" src="images/icons/braces.png" alt="service-icon" /> 
 							</div>
 
 							<!-- Title -->
-							<h5 class="h5-sm">Tooth Braces</h5>
+							<h5 class="h5-sm">Comprehensive Consultation</h5>
+							<p>Mirror</p>
+							<p>Probe</p>
 
 						</a>
 					</div>
@@ -258,15 +391,21 @@
 				<!-- SERVICE BOX #2 -->
 				<div class="col-sm-6 col-lg-3">
 					<div class="sbox-2 wow fadeInUp" data-wow-delay="0.6s">
-						<a href="#">
+						<a href="dental_implants.php">
 
-							<!-- Icon  -->
-							<div class="sbox-2-icon">
-								<!-- <img class="img-80" src="images/icons/implant.png" alt="service-icon" /> -->
-							</div>
+							<img class="img-80" src="images\Dentalive-images\Dental-Implant-01.png" alt="service-icon" />
+
+
+
+							<h5 class="h5-sm ">Dental Implants</h5>
+							<p>Single tooth implant</p>
+							<p>Implant supported bridge</p>
+							<p>Implant supported over dentures</p>
+							<p>Minimal Invasive guided Implants </p>
 
 							<!-- Title -->
-							<h5 class="h5-sm ">Dental Implants</h5>
+
+
 
 						</a>
 					</div>
@@ -276,15 +415,21 @@
 				<!-- SERVICE BOX #3 -->
 				<div class="col-sm-6 col-lg-3">
 					<div class="sbox-2 wow fadeInUp" data-wow-delay="0.8s">
-						<a href="#">
+						<a href="Gum_treatment.php">
 
 							<!-- Icon  -->
-							<div class="sbox-2-icon">
-								<!-- <img class="img-80" src="images/icons/broken.png" alt="service-icon" /> -->
+							<div class="">
+								<img class="img-80" src="images/icons/broken.png" alt="service-icon" />
 							</div>
 
 							<!-- Title -->
-							<h5 class="h5-sm ">Gum Care</h5>
+							<h5 class="h5-sm ">Gum Treatment</h5>
+							<p>Scaling and polishing</p>
+							<p>Flap surgeries</p>
+							<p>Root planing & curettage</p>
+							<p>Gum graft surgery</p>
+							<p>Bone Grafts</p>
+
 
 						</a>
 					</div>
@@ -294,16 +439,22 @@
 				<!-- SERVICE BOX #4 -->
 				<div class="col-sm-6 col-lg-3">
 					<div class="sbox-2 wow fadeInUp" data-wow-delay="1s">
-						<a href="#">
+						<a href="Orthodontic.php">
 
 							<!-- Icon  -->
-							<div class="sbox-2-icon">
-								<!-- <img class="img-80" src="images/icons/calculus.png" alt="service-icon" /> -->
+							<div class="">
+								<img class="img-80" src="images/icons/calculus.png" alt="service-icon" />
 							</div>
 
 							<!-- Title -->
-							<h5 class="h5-sm">Orthodontic treatment
-							</h5>
+							<h5 class="h5-sm">Orthodontic treatment</h5>
+							<p>Invisible / Clear</p>
+							<p>Metallic braces</p>
+							<p>Ceramic braces</p>
+							<p>Self ligating braces</p>
+							<p>Lingual braces</p>
+							<p>Implants supported braces</p>
+
 
 						</a>
 					</div>
@@ -313,15 +464,19 @@
 				<!-- SERVICE BOX #5 -->
 				<div class="col-sm-6 col-lg-3">
 					<div class="sbox-2 wow fadeInUp" data-wow-delay="0.4s">
-						<a href="#">
+						<a href="General_dentistry.php">
 
 							<!-- Icon  -->
-							<div class="sbox-2-icon">
-								<!-- <img class="img-80" src="images/icons/equipment.png" alt="service-icon" /> -->
+							<div class="">
+								<img class="img-80" src="images/icons/equipment.png" alt="service-icon" />
 							</div>
 
-							<!-- Title -->
-							<h5 class="h5-sm">Teeth Whitening</h5>
+
+							<h5 class="h5-sm">General Dentistry</h5>
+							<p>Routine dental check-ups</p>
+							<p>Teeth cleanings and preventive care</p>
+							<p>Fillings for cavities</p>
+							<p>Extractions, including wisdom teeth</p>
 
 						</a>
 					</div>
@@ -331,16 +486,23 @@
 				<!-- SERVICE BOX #6 -->
 				<div class="col-sm-6 col-lg-3">
 					<div class="sbox-2 wow fadeInUp" data-wow-delay="0.6s">
-						<a href="#">
+						<a href="Cosmetic_dentistry.php">
 
 							<!-- Icon  -->
-							<div class="sbox-2-icon">
-								<!-- <img class="img-80" src="images/icons/clean.png" alt="service-icon" /> -->
+							<div class="">
+								<img class="img-80" src="images/icons/clean.png" alt="service-icon" />
 							</div>
 
 							<!-- Title -->
-							<h5 class="h5-sm ">Cosmetic dentistry
-							</h5>
+							<h5 class="h5-sm ">Cosmetic dentistry</h5>
+							<p>Teeth whitening</p>
+							<p>De pigmentation of Gums</p>
+							<p>Composite restoration & buildup</p>
+							<p>Smile Design</p>
+							<p>Composite Veneers/ laminates</p>
+							<p>Porcelain Veneers</p>
+							<p>Full mouth reconstruction</p>
+
 
 						</a>
 					</div>
@@ -350,15 +512,22 @@
 				<!-- SERVICE BOX #7 -->
 				<div class="col-sm-6 col-lg-3">
 					<div class="sbox-2 wow fadeInUp" data-wow-delay="0.8s">
-						<a href="#">
+						<a href="Children's_Dentistry.php">
 
 							<!-- Icon  -->
-							<div class="sbox-2-icon">
-								<!-- <img class="img-80" src="images/icons/anesthetic.png" alt="service-icon" /> -->
+							<div class="">
+								<img class="img-80" src="images/icons/anesthetic.png" alt="service-icon" />
 							</div>
 
 							<!-- Title -->
-							<h5 class="h5-sm">Dental Surgeries</h5>
+							<h5 class="h5-sm">Children Dentistry</h5>
+							<p>Preventive procedures</p>
+							<p>Composite fillings</p>
+							<p>Pulpectomy</p>
+							<p>SS crowns & zirconia crowns</p>
+							<p>Space maintainers</p>
+							<p>Habit breaking appliance</p>
+
 
 						</a>
 					</div>
@@ -368,16 +537,113 @@
 				<!-- SERVICE BOX #8 -->
 				<div class="col-sm-6 col-lg-3">
 					<div class="sbox-2 wow fadeInUp" data-wow-delay="1s">
-						<a href="#">
+						<a href="Endodontics.php">
 
 							<!-- Icon  -->
-							<div class="sbox-2-icon">
-								<!-- <img class="img-80" src="images/icons/caries.png" alt="service-icon" /> -->
+							<div class="">
+								<img class="img-80" src="images/icons/caries.png" alt="service-icon" />
 							</div>
 
 							<!-- Title -->
-							<h5 class="h5-sm">Endodontics Procedures
+							<h5 class="h5-sm">Endodontics Treatment</h5>
+
+							<p>Single Visit Root canal Treatment</p>
+							<p>Multiple visit RCT for long standing infection</p>
+							<p>Repeat Endodontics</p>
+							<p>Surgical Endodontics</p>
+
+
+						</a>
+					</div>
+				</div>
+
+
+
+				<!-- SERVICE BOX #5 -->
+				<div class="col-sm-6 col-lg-3">
+					<div class="sbox-2 wow fadeInUp" data-wow-delay="0.4s">
+						<a href="tobacco_cessation.php">
+
+							<!-- Icon  -->
+							<div class="sbox-2-icon">
+								 <img class="img-80" src="images/icons/equipment.png" alt="service-icon" /> 
+							</div>
+
+							<!-- Title -->
+							<h5 class="h5-sm">Tobacco Cessation Program</h5>
+							<p>Pharmacotherapy</p>
+							<p>Oral Health Monitoring</p>
+							<p>Long-term Maintenance</p>
+							<p>Follow-up Support</p>
+
+						</a>
+					</div>
+				</div>
+
+
+				<!-- SERVICE BOX #6 -->
+				<div class="col-sm-6 col-lg-3">
+					<div class="sbox-2 wow fadeInUp" data-wow-delay="0.6s">
+						<a href="dentures.php">
+
+							<!-- Icon  -->
+							<div class="">
+								<img class="img-80" src="images/icons/clean.png" alt="service-icon" />
+							</div>
+
+							<!-- Title -->
+							<h5 class="h5-sm ">Dentures
 							</h5>
+							<p>Full Dentures</p>
+							<p>Partial Dentures</p>
+							<p>Implant-Supported Dentures</p>
+							<p>Overdentures</p>
+
+						</a>
+					</div>
+				</div>
+
+
+				<!-- SERVICE BOX #7 -->
+				<div class="col-sm-6 col-lg-3">
+					<div class="sbox-2 wow fadeInUp" data-wow-delay="0.8s">
+						<a href="routine_dental.php">
+
+							<!-- Icon  -->
+							<div class="">
+								<img class="img-80" src="images/icons/anesthetic.png" alt="service-icon" />
+							</div>
+
+							<!-- Title -->
+							<h5 class="h5-sm">Routine Dental Procedures </h5>
+							<p>Dental Check-ups</p>
+							<p>X-rays and Diagnostic Imaging</p>
+							<p>Gum Disease Treatment</p>
+							<p>Extractions</p>
+
+						</a>
+					</div>
+				</div>
+
+
+				<!-- SERVICE BOX #8 -->
+				<div class="col-sm-6 col-lg-3">
+					<div class="sbox-2 wow fadeInUp" data-wow-delay="1s">
+						<a href="neuromuscular.php">
+
+							<!-- Icon  -->
+							<div class="">
+								<img class="img-80" src="images/icons/caries.png" alt="service-icon" />
+							</div>
+
+							<!-- Title -->
+							<h5 class="h5-sm">Neuromuscular Pain
+							</h5>
+							<p>Muscle tension in the jaw.</p>
+							<p>TMJ disorders.</p>
+							<p>Nerve compression or irritation.</p>
+							<p>Dental misalignment.</p>
+
 
 						</a>
 					</div>
@@ -388,122 +654,17 @@
 
 
 		</div> <!-- End container -->
-	</section> 
-	
-
-	
-	
+	</section>
 
 
 
 
-	<section id="services-6" class="bg-blue wide-40 servicess-section division">
-		<div class="container white-color">
 
 
-			<!-- SECTION TITLE -->
-			<div class="row">
-				<div class="col-lg-10 offset-lg-1 section-title">
-
-					<!-- Title 	-->
-					<h3 class="h3-md">Our Core Dental Services</h3>
-
-					<!-- Text -->
-					<p>Enhancing your oral health with a range of specialized dental services.
-						Our skilled team is dedicated to providing personalized care, ensuring your comfort and well-being
-					</p>
-
-				</div>
-			</div>
 
 
-			<div class="row d-flex align-items-center">
 
-
-				<!-- LEFT SIDE CONTENT -->
-				<div class="col-md-6 col-lg-4">
-
-					<!-- SERVICE BOX #1 -->
-					<div class="sbox-6 pr-30 text-right wow fadeInRight" data-wow-delay="0.4s">
-
-						<!-- Text -->
-						<h5 class="h5-md">General Dentistry</h5>
-						<p>Experience excellence in general dentistry with our comprehensive services.
-							We prioritize your oral health, offering expert care and personalized treatments.</p>
-
-					</div>
-
-					<!-- SERVICE BOX #2 -->
-					<div class="sbox-6 pr-30 mr-30 text-right wow fadeInRight" data-wow-delay="0.6s">
-
-						<!-- Text -->
-						<h5 class="h5-sm">Dental Checkups</h5>
-						<p>Regular dental checkups are crucial for maintaining optimal oral health.
-							Our expert team ensures thorough examinations and personalized care.</p>
-
-					</div>
-
-					<!-- SERVICE BOX #2 -->
-					<div class="sbox-6 pr-30 text-right wow fadeInRight" data-wow-delay="0.8s">
-
-						<!-- Text -->
-						<h5 class="h5-md">Cosmetic Dental Services</h5>
-						<p>Experience confidence through our cosmetic dental services. From teeth whitening to smile makeovers,
-							we enhance your natural beauty with advanced cosmetic procedures.</p>
-
-					</div>
-
-				</div>
-
-
-				<!-- SERVICE IMAGE -->
-				<div class="col-lg-4 s6-img">
-					<div class="sbox-6-img mb-40 text-center wow fadeInUp" data-wow-delay="0.8s">
-						<img class="img-fluid" src="images/tooth.png" alt="services-image">
-					</div>
-				</div>
-
-
-				<!-- RIGHT SIDE CONTENT -->
-				<div class="col-md-6 col-lg-4">
-
-
-					<!-- SERVICE BOX #4 -->
-					<div class="sbox-6 pl-30 wow fadeInLeft" data-wow-delay="0.4s">
-
-						<!-- Text -->
-						<h5 class="h5-md">Gum Therapy</h5>
-						<p>Revitalize your gum health with our advanced gum therapy. Our expert team ensures effective treatments,
-							providing comfort and optimal oral well-being.</p>
-
-					</div>
-
-					<!-- SERVICE BOX #5 -->
-					<div class="sbox-6 pl-30 ml-30 wow fadeInLeft" data-wow-delay="0.6s">
-
-						<!-- Text -->
-						<h5 class="h5-md">Wisdom Teeth Removal</h5>
-						<p>Experience pain-free wisdom teeth removal with our skilled professionals.
-							We prioritize your comfort and well-being throughout the process.</p>
-
-					</div>
-
-					<!-- SERVICE BOX #6 -->
-					<div class="sbox-6 pl-30 wow fadeInLeft" data-wow-delay="0.8s">
-
-						<!-- Text -->
-						<h5 class="h5-md">Dental Implants</h5>
-						<p>Restore your smile with our innovative dental implant solutions.
-							Our team offers personalized implant treatments for lasting results.</p>
-
-					</div>
-
-				</div>
-
-
-			</div> <!-- End row -->
-		</div> <!-- End container -->
-	</section> <!-- END SERVICES-6 -->
+	<!-- END SERVICES-6 -->
 
 
 
@@ -1012,6 +1173,31 @@
 			},
 		});
 	</script>
+
+	<script>
+		document.addEventListener("DOMContentLoaded", function() {
+
+
+			document.querySelectorAll('a[href^="#reviews-2"]').forEach(anchor => {
+				anchor.addEventListener("click", function(e) {
+					e.preventDefault();
+					console.log("Link clicked");
+					const targetElement = document.getElementById("reviews-2");
+					if (targetElement) {
+						// console.log("Scrolling to", targetElement);
+						targetElement.scrollIntoView({
+							behavior: "smooth"
+						});
+					} else {
+						console.error("Target element not found");
+					}
+				});
+			});
+		});
+	</script>
+
+
+
 
 </body>
 

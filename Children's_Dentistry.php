@@ -117,7 +117,7 @@
 							</nav> -->
 
                             <!-- Title -->
-                            <h1 class="h2-sm steelblue-color">Orthodontic Services</h1>
+                            <h1 class="h2-sm steelblue-color">Children Dentistry</h1>
 
                         </div>
                     </div>
@@ -140,13 +140,12 @@
                         <div class="s1-page content-block text-center">
 
                             <!-- Title -->
-                            <h3 class="h3-xl blue-color">Why need for Orthodontic Services</h3>
+                            <h3 class="h3-xl blue-color">Why need for Children Dentistry Services</h3>
                             <!-- <h4 class="h4-md blue-color">Maecenas gravida porttitor nunc, magna luctus tempor viverra</h4> -->
 
                             <!-- Text -->
-                            <p class="p-lg">Orthodontic treatment can help to prevent cavities and
-                                gum disease by making it easier to clean your teeth,it can correct bite problems, which can make it easier to
-                                chew and speak,it can sometimes help to relieve pain caused by TMJ disorders.</p>
+                            <p class="p-lg">Taking care of your child's teeth from a young age is essential for their overall health and well-being. Children's teeth are more vulnerable to cavities and other dental problems than adult teeth,
+                                and neglecting their oral health can lead to a variety of issues down the road.</p>
 
                             <!-- Text -->
                             <p class="p-lg">
@@ -162,7 +161,7 @@
                 <div class="row">
                     <div class="col-md-12">
                         <div class="content-block-img text-center">
-                            <img class="img-fluid" src="images\Dentalive-images\orthodontic-1.avif" alt="content-image">
+                            <img class="img-fluid" src="images\Dentalive-images\diverse-kids-with-dental-care-icons_53876-148199..jpg" alt="content-image">
                         </div>
                     </div>
                 </div>
@@ -174,17 +173,15 @@
                         <div class="s1-page content-block text-center mb-40">
 
                             <!-- Text -->
-                            <p class="p-lg">Ligula risus auctor tempus dolor feugiat, felis lacinia risus interdum
-                                auctor id viverra dolor iaculis luctus bibendum luctus neque rhoncus ipsum tempor varius
-                                iaculis at luctus neque rhoncus ipsum tempor varius cubilia laoreet augue vitae laoreet
-                                augue undo cubilia feugiat suscipit emper lacus cursus
+                            <p class="p-lg">Children dentistry services provide early education on proper oral care habits. Teaching kids how to brush,
+                                floss, and care for their teeth sets the foundation for a lifetime of good oral health.
                             </p>
 
                             <!-- Text -->
-                            <p class="p-lg">An enim nullam tempor sapien gravida donec enim ipsum blandit porta justo
-                                integer odio velna vitae auctor integer congue magna at pretium purus pretium ligula rutrum
-                                vitae laoreet augue posuere and curae integer congue leo metus mollis primis and mauris
-                                iaculis luctus bibendum neque
+                            <p class="p-lg"> Prevent cavities and tooth decay are the most common chronic disease in children, and they
+                                can cause pain, discomfort, and difficulty eating. Children's dentists can help prevent cavities
+                                by teaching children proper brushing and flossing techniques, applying fluoride treatments,
+                                and identifying potential problems early on.
                             </p>
 
                             <!-- Button -->
@@ -513,7 +510,7 @@
                                     <div class="card-header" role="tab" id="headingOne">
                                         <h5 class="h5-xs">
                                             <a data-toggle="collapse" href="#collapseOne" role="button" aria-expanded="true" aria-controls="collapseOne">
-                                                What age should my child be seen by an orthodontist?
+                                                Are baby teeth important, and do they require dental care?
                                             </a>
                                         </h5>
                                     </div>
@@ -523,10 +520,10 @@
                                         <div class="card-body">
 
                                             <!-- Text -->
-                                            <p>The American Association of Orthodontists recommends that your ch ild be evaluated by age 7. Treatment at this time for certain
-                                                cases is advisable cause the jaws are just developing and growing and intervening at this time will cause benefits in future
-                                                treatment. Early detection of some orthodontic problems is important in order to take early corrective action and avoid more
-                                                difficult treatment later.
+                                            <p>Yes, baby teeth are crucial for proper speech development, nutrition,
+                                                and guiding permanent teeth. Dental care for baby teeth includes regular check-ups,
+                                                cleanings, and preventive measures.
+
                                             </p>
 
                                         </div>
@@ -542,7 +539,7 @@
                                     <div class="card-header" role="tab" id="headingTwo">
                                         <h5 class="h5-xs">
                                             <a class="collapsed" data-toggle="collapse" href="#collapseTwo" role="button" aria-expanded="false" aria-controls="collapseTwo">
-                                                What is the length or duration of orthodontic treatment?
+                                                How can I help my child overcome fear of the dentist?
                                             </a>
                                         </h5>
                                     </div>
@@ -552,8 +549,9 @@
                                         <div class="card-body">
 
                                             <p>
-                                                Braces may be on between 6 months to 30 months, or longer depending on the age of the patient, the severity of the problem,
-                                                the patient’s cooperation, and the degree of movement possible.
+                                                Parents can ease dental anxiety by maintaining a positive attitude, using positive language,
+                                                and explaining dental visits in a child-friendly manner. Regular, routine visits also contribute to familiarity.
+
                                             </p>
 
                                         </div>
@@ -566,8 +564,7 @@
                                     <div class="card-header" role="tab" id="headingThree">
                                         <h5 class="h5-xs">
                                             <a class="collapsed" data-toggle="collapse" href="#collapseThree" role="button" aria-expanded="false" aria-controls="collapseThree">
-                                                How do I know if my child is in need of orthodontic treatment?
-                                            </a>
+                                                What is the purpose of dental sealants for children? </a>
                                         </h5>
                                     </div>
 
@@ -576,10 +573,8 @@
                                         <div class="card-body">
 
                                             <!-- Text -->
-                                            <p>It is usually difficult for you to determine if treatment is necessary because there are many problems that can occur even though
-                                                the front teeth look straight. Also, there are some problems that look intimidating and complex which will resolve on their own.
-                                                Our initial exam I can evaluate the case and we would be more than happy to see your child and make any recommendations
-                                                necessary.
+                                            <p>Dental sealants are protective coatings applied to the chewing surfaces of molars to prevent cavities.
+                                                They create a barrier against bacteria and food particles, reducing the risk of decay.
                                             </p>
 
                                             <!-- List -->
@@ -597,7 +592,7 @@
                                     <div class="card-header" role="tab" id="headingEight">
                                         <h5 class="h5-xs">
                                             <a class="collapsed" data-toggle="collapse" href="#collapseEight" role="button" aria-expanded="false" aria-controls="collapseEight">
-                                                Can you be too old for braces?
+                                                At what age do children typically start losing baby teeth?
                                             </a>
                                         </h5>
                                     </div>
@@ -606,8 +601,8 @@
                                     <div id="collapseEight" class="collapse" role="tabpanel" aria-labelledby="headingEight" data-parent="#accordion">
                                         <div class="card-body">
 
-                                            <p>No, age is not a factor, only the health of your gums and bone which support your teeth. About 25% of our orthodontic patients
-                                                are adults and that number is still growing!
+                                            <p>Children usually start losing baby teeth around age 6 and
+                                                continue until around age 12 or 13 when most permanent teeth have erupted.
                                             </p>
 
                                         </div>
@@ -621,8 +616,7 @@
                                     <div class="card-header" role="tab" id="headingFour">
                                         <h5 class="h5-xs">
                                             <a class="collapsed" data-toggle="collapse" href="#collapseFour" role="button" aria-expanded="false" aria-controls="collapseFour">
-                                                Will it hurt?
-                                            </a>
+                                                How often should my child have dental check-ups? </a>
                                         </h5>
                                     </div>
 
@@ -631,10 +625,8 @@
                                         <div class="card-body">
 
                                             <!-- Text -->
-                                            <p>Orthodontic treatment has improved dramatically. As a rule, braces make your teeth sore for a few days, but it is not painful. This
-                                                annoyance can be relieved with an over-the-counter pain reliever. Today’s braces are smaller, more comfortable and use
-                                                technology that reduces the discomfort. We use the latest in miniature braces and the highest quality of orthodontic materials in
-                                                order to reduce discomfort and treatment time.
+                                            <p>Regular dental check-ups are typically recommended every six months. However,
+                                                the frequency may vary based on individual oral health needs.
                                             </p>
 
                                         </div>

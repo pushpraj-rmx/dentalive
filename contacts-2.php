@@ -68,14 +68,14 @@
 
 
 
-	
+
 
 
 	<!-- PAGE CONTENT
 		============================================= -->
 	<div id="page" class="page">
 
-	<?php include 'includes/header.php' ?>
+		<?php include 'includes/header.php' ?>
 
 
 
@@ -95,12 +95,7 @@
 						<div class=" breadcrumb-holder">
 
 							<!-- Breadcrumb Nav -->
-							<nav aria-label="breadcrumb">
-								<ol class="breadcrumb">
-									<li class="breadcrumb-item"><a href="demo-1.php">Home</a></li>
-									<li class="breadcrumb-item active" aria-current="page">Contact Us</li>
-								</ol>
-							</nav>
+
 
 							<!-- Title -->
 							<h4 class="h4-sm steelblue-color">Contact Us</h4>
@@ -141,57 +136,15 @@
 								<div class="contact-box mb-40">
 
 									<!-- City -->
-									<h5 class="h5-sm steelblue-color">Sydney</h5>
-									<p>121 King Street, Melbourne,</p>
-									<p>Victoria 3000 Australia</p>
-									<p>Phone: 1-(800)-569-7890</p>
-									<p>Email: <a href="mailto:yourdomain@mail.com" class="blue-color">hello@yourdomain.com</a></p>
+									<h5 class="h5-sm steelblue-color">Address</h5>
+									<p>Meghna, Shop no. 2,</p>
+									<p>Plot No - 95, Sec-27, Nerul</p>
+									<p> Navi Mumbai</p>
+									<p>Phone: +918291586390</p>
+									<p>Email: <a href="dr.mitu.shandilya@gmail.com" class="blue-color">dr.mitu.shandilya@gmail.com</a></p>
+									<p>Email: <a href="mydentalive@gmail.com" class="blue-color">mydentalive@gmail.com</a></p>
 								</div>
 							</div>
-
-
-							<!-- CITY CONTACT DATA -->
-							<div class="col-md-6">
-								<div class="contact-box mb-40">
-
-									<!-- City -->
-									<h5 class="h5-sm steelblue-color">Melbourne</h5>
-									<p>121 King Street, Melbourne,</p>
-									<p>Victoria 3000 Australia</p>
-									<p>Phone: 1-(800)-569-7890</p>
-									<p>Email: <a href="mailto:yourdomain@mail.com" class="blue-color">hello@yourdomain.com</a></p>
-								</div>
-							</div>
-
-
-							<!-- CITY CONTACT DATA -->
-							<div class="col-md-6">
-								<div class="contact-box mb-40">
-
-									<!-- City -->
-									<h5 class="h5-sm steelblue-color">Brisbane</h5>
-									<p>121 King Street, Melbourne,</p>
-									<p>Victoria 3000 Australia</p>
-									<p>Phone: 1-(800)-569-7890</p>
-									<p>Email: <a href="mailto:yourdomain@mail.com" class="blue-color">hello@yourdomain.com</a></p>
-								</div>
-							</div>
-
-
-							<!-- CITY CONTACT DATA -->
-							<div class="col-md-6">
-								<div class="contact-box mb-40">
-
-									<!-- City -->
-									<h5 class="h5-sm steelblue-color">Adelaide</h5>
-									<p>121 King Street, Melbourne,</p>
-									<p>Victoria 3000 Australia</p>
-									<p>Phone: 1-(800)-569-7890</p>
-									<p>Email: <a href="mailto:yourdomain@mail.com" class="blue-color">hello@yourdomain.com</a></p>
-								</div>
-							</div>
-
-
 						</div>
 					</div> <!-- END CONTACTS INFO -->
 
@@ -271,8 +224,12 @@
 							<!-- Title  -->
 							<h3 class="h3-sm">Take the First Step to Help</h3>
 
-							<h4 class="h4-lg">Call MedService Clinic Now</h4>
-							<h2 class="h2-lg">1-800-123-4560</h2>
+							<h4 class="h4-lg">Call Dentalive Clinic Now</h4>
+							<h2 class="h2-lg">+918291586390</h2>
+							<h2 class="h2-lg">+919987520016</h2>
+
+
+
 
 						</div>
 					</div>

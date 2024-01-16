@@ -117,7 +117,7 @@
 							</nav> -->
 
                             <!-- Title -->
-                            <h1 class="h2-sm steelblue-color">Gum Treatment</h1>
+                            <!-- <h1 class="h2-sm steelblue-color">Comprehensive Consultation</h1> -->
 
                         </div>
                     </div>
@@ -140,12 +140,17 @@
                         <div class="s1-page content-block text-center">
 
                             <!-- Title -->
-                            <h3 class="h3-xl blue-color">Why need for Gum Treatment Services</h3>
+                            <h3 class="h3-xl blue-color">Why need for Comprehensive Consultation</h3>
                             <!-- <h4 class="h4-md blue-color">Maecenas gravida porttitor nunc, magna luctus tempor viverra</h4> -->
 
                             <!-- Text -->
-                            <p class="p-lg">Healthy gums are the foundation of a healthy smile. They provide vital support for your teeth and act as a barrier against harmful bacteria. However, if left untreated, gum disease can wreak havoc on your
-                                 oral health and even have negative consequences for your overall well-being.</p>
+                            <p class="p-lg">We make sure that the patient is properly diagnosed for
+                                overall oral health including teeth, mouth and tongue.The patient gets a thorough
+                                check-up and if required digital x-ray which perfectly shows the bone health
+                                any underlying lesions, unerupted and retained teeth. Comprehensive dental consultation
+                                takes relatively longer time as we believe every patient must be fully aware of their condition
+                                and information about the available treatment options.
+                            </p>
 
                             <!-- Text -->
                             <p class="p-lg">
@@ -168,31 +173,8 @@
 
 
                 <!-- TEXT -->
-                <div class="row">
-                    <div class="col-xl-10 offset-xl-1">
-                        <div class="s1-page content-block text-center mb-40">
-
-                            <!-- Text -->
-                            <p class="p-lg">Gum disease, also known as periodontal disease, is a progressive infection of the tissues 
-                                surrounding your teeth. It's caused by plaque, a sticky film of bacteria that constantly builds up on your teeth. If plaque isn't removed regularly through brushing and flossing, it can harden into tartar,
-                                which further irritates the gums and creates a breeding ground for bacteria.                            </p>
-
-                            <!-- Text -->
-                            <p class="p-lg"> If gingivitis is left untreated, it can progress to periodontitis, which damages the supporting structures of your teeth, including the bone.
-                                This can lead to loose teeth, tooth loss, and even jawbone deterioration.
-                            </p>
-
-                            <!-- Button -->
-                            <!-- <a href="appointment.php" class="btn btn-md btn-blue blue-hover">Book an Appointment</a> -->
-
-                            <!-- Text -->
-                            <!-- <h4 class="h4-lg">Service Cost: <span class="blue-color">$145.00</span></h4>
-                            <h5 class="h5-md">Duration: 0h 23m</h5> -->
-
-                        </div>
-                    </div>
-
-                </div> <!-- End row -->
+            
+                 <!-- End row -->
 
 
             </div> <!-- End container -->
@@ -220,7 +202,7 @@
                                     <div class="card-header" role="tab" id="headingOne">
                                         <h5 class="h5-xs">
                                             <a data-toggle="collapse" href="#collapseOne" role="button" aria-expanded="true" aria-controls="collapseOne">
-                                            How do I know if I need gum treatment?
+                                                How do I know if I need gum treatment?
                                             </a>
                                         </h5>
                                     </div>
@@ -247,7 +229,7 @@
                                     <div class="card-header" role="tab" id="headingTwo">
                                         <h5 class="h5-xs">
                                             <a class="collapsed" data-toggle="collapse" href="#collapseTwo" role="button" aria-expanded="false" aria-controls="collapseTwo">
-                                            What is scaling and root planing?
+                                                What is scaling and root planing?
                                             </a>
                                         </h5>
                                     </div>
@@ -257,9 +239,9 @@
                                         <div class="card-body">
 
                                             <p>
-                                            Scaling involves removing plaque and tartar from the tooth surface and below the gumline.
-                                            Root planing smoothens the tooth roots to prevent bacteria accumulation.
-                                            It is a common non-surgical gum treatment.
+                                                Scaling involves removing plaque and tartar from the tooth surface and below the gumline.
+                                                Root planing smoothens the tooth roots to prevent bacteria accumulation.
+                                                It is a common non-surgical gum treatment.
                                             </p>
 
                                         </div>
@@ -272,7 +254,7 @@
                                     <div class="card-header" role="tab" id="headingThree">
                                         <h5 class="h5-xs">
                                             <a class="collapsed" data-toggle="collapse" href="#collapseThree" role="button" aria-expanded="false" aria-controls="collapseThree">
-                                            Is gum treatment painful?
+                                                Is gum treatment painful?
                                             </a>
                                         </h5>
                                     </div>
@@ -301,7 +283,7 @@
                                     <div class="card-header" role="tab" id="headingEight">
                                         <h5 class="h5-xs">
                                             <a class="collapsed" data-toggle="collapse" href="#collapseEight" role="button" aria-expanded="false" aria-controls="collapseEight">
-                                            How long does gum treatment take?
+                                                How long does gum treatment take?
                                             </a>
                                         </h5>
                                     </div>
@@ -326,7 +308,7 @@
                                     <div class="card-header" role="tab" id="headingFour">
                                         <h5 class="h5-xs">
                                             <a class="collapsed" data-toggle="collapse" href="#collapseFour" role="button" aria-expanded="false" aria-controls="collapseFour">
-                                            How often should I have gum treatments?
+                                                How often should I have gum treatments?
                                             </a>
                                         </h5>
                                     </div>
@@ -734,8 +716,8 @@
 
         <!-- FAQ -->
 
-      
-        
+
+
 
 
 

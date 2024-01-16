@@ -117,7 +117,7 @@
 							</nav> -->
 
                             <!-- Title -->
-                            <h1 class="h2-sm steelblue-color">Orthodontic Services</h1>
+                            <h1 class="h2-sm steelblue-color">Dental Implants</h1>
 
                         </div>
                     </div>
@@ -140,16 +140,16 @@
                         <div class="s1-page content-block text-center">
 
                             <!-- Title -->
-                            <h3 class="h3-xl blue-color">Why need for Orthodontic Services</h3>
+                            <h3 class="h3-xl blue-color">Why need for Dental Implants Services</h3>
                             <!-- <h4 class="h4-md blue-color">Maecenas gravida porttitor nunc, magna luctus tempor viverra</h4> -->
 
                             <!-- Text -->
-                            <p class="p-lg">Orthodontic treatment can help to prevent cavities and
-                                gum disease by making it easier to clean your teeth,it can correct bite problems, which can make it easier to
-                                chew and speak,it can sometimes help to relieve pain caused by TMJ disorders.</p>
+                            <p class="p-lg">Missing teeth can be a major inconvenience, impacting not only your appearance but also your oral health and overall well-being. Fortunately, dental implants offer a revolutionary
+                                solution that can restore your smile to its full potential. </p>
 
                             <!-- Text -->
                             <p class="p-lg">
+
 
                             </p>
 
@@ -162,7 +162,7 @@
                 <div class="row">
                     <div class="col-md-12">
                         <div class="content-block-img text-center">
-                            <img class="img-fluid" src="images\Dentalive-images\orthodontic-1.avif" alt="content-image">
+                            <img class="img-fluid" src="images\Dentalive-images\dental-implant-structure-medical-infographic-poster_1284-15063.jpg" alt="content-image">
                         </div>
                     </div>
                 </div>
@@ -174,17 +174,13 @@
                         <div class="s1-page content-block text-center mb-40">
 
                             <!-- Text -->
-                            <p class="p-lg">Ligula risus auctor tempus dolor feugiat, felis lacinia risus interdum
-                                auctor id viverra dolor iaculis luctus bibendum luctus neque rhoncus ipsum tempor varius
-                                iaculis at luctus neque rhoncus ipsum tempor varius cubilia laoreet augue vitae laoreet
-                                augue undo cubilia feugiat suscipit emper lacus cursus
+                            <p class="p-lg">Dental implants are considered a permanent solution, lasting for decades with proper care. While dentures and bridges may require frequent replacements, implants offer a
+                                long-term investment in your oral health and save you money in the long run.
                             </p>
 
                             <!-- Text -->
-                            <p class="p-lg">An enim nullam tempor sapien gravida donec enim ipsum blandit porta justo
-                                integer odio velna vitae auctor integer congue magna at pretium purus pretium ligula rutrum
-                                vitae laoreet augue posuere and curae integer congue leo metus mollis primis and mauris
-                                iaculis luctus bibendum neque
+                            <p class="p-lg">When you lose a tooth, the jawbone beneath it begins to deteriorate. Dental implants stimulate the jawbone, preventing bone loss and preserving your facial structure. This not only maintains
+                                your youthful appearance but also protects the health of your remaining teeth.
                             </p>
 
                             <!-- Button -->
@@ -204,7 +200,253 @@
         </div> <!-- END SERVICE DETAILS -->
 
 
+        <section id="faqs-page" class="wide-80 faqs-section division">
+            <div class="container">
+                <h3 class="h3-md steelblue-color text-center">Frequently Asked Questions</h3>
+                <br>
+                <div class="row">
 
+                    <!-- QUESTIONS HOLDER -->
+                    <div class="col-lg-8">
+                        <div class="questions-holder pr-30">
+                            <!-- QUESTIONS ACCORDION -->
+                            <div id="accordion" role="tablist">
+
+
+
+                                <div class="card">
+
+                                    <!-- Card Title -->
+                                    <div class="card-header" role="tab" id="headingOne">
+                                        <h5 class="h5-xs">
+                                            <a data-toggle="collapse" href="#collapseOne" role="button" aria-expanded="true" aria-controls="collapseOne">
+                                                What is a dental implant?
+                                            </a>
+                                        </h5>
+                                    </div>
+
+                                    <!-- Card Content -->
+                                    <div id="collapseOne" class="collapse show" role="tabpanel" aria-labelledby="headingOne" data-parent="#accordion">
+                                        <div class="card-body">
+
+                                            <!-- Text -->
+                                            <p>A dental implant is simply a titanium device implanted in the jaw bone to support, or attach, an artificial tooth or teeth.. the bone in your jaw
+                                                needs to grow onto them and fuse to them. This will mostly take a few months.
+                                            </p>
+
+                                        </div>
+                                    </div>
+
+                                </div> <!-- END ACCORDION CARD #1 -->
+
+
+                                <!-- ACCORDION CARD #2 -->
+                                <div class="card">
+
+                                    <!-- Card Title -->
+                                    <div class="card-header" role="tab" id="headingTwo">
+                                        <h5 class="h5-xs">
+                                            <a class="collapsed" data-toggle="collapse" href="#collapseTwo" role="button" aria-expanded="false" aria-controls="collapseTwo">
+                                                Are implants safe and how long will they last?
+                                            </a>
+                                        </h5>
+                                    </div>
+
+                                    <!-- Card Content -->
+                                    <div id="collapseTwo" class="collapse" role="tabpanel" aria-labelledby="headingTwo" data-parent="#accordion">
+                                        <div class="card-body">
+
+                                            <p>
+                                                Implants are a safe, well-established treatment.
+                                            </p>
+
+                                        </div>
+                                    </div>
+
+                                </div>
+                                <div class="card">
+
+                                    <!-- Card Title -->
+                                    <div class="card-header" role="tab" id="headingThree">
+                                        <h5 class="h5-xs">
+                                            <a class="collapsed" data-toggle="collapse" href="#collapseThree" role="button" aria-expanded="false" aria-controls="collapseThree">
+                                                How long does an implant treatment take?
+                                            </a>
+                                        </h5>
+                                    </div>
+
+                                    <!-- Card Content -->
+                                    <div id="collapseThree" class="collapse" role="tabpanel" aria-labelledby="headingThree" data-parent="#accordion">
+                                        <div class="card-body">
+
+                                            <!-- Text -->
+                                            <p>Implant treatments range from the immediate replacement of an extracted tooth to over six months when jaw surgery and bone grafting is
+                                                needed. The average treatment is three to six months. Most of the time required to complete implant treatment is taken up just waiting for the
+                                                bone to fuse completely with the implant. This usually takes a few months and goes on below the gum line without any feeling or awareness. In
+                                                more complex cases treatment may be longer
+                                            </p>
+
+                                            <!-- List -->
+
+
+
+                                        </div>
+                                    </div>
+
+                                </div> <!-- END ACCORDION CARD #3 -->
+
+                                <div class="card">
+
+                                    <!-- Card Title -->
+                                    <div class="card-header" role="tab" id="headingEight">
+                                        <h5 class="h5-xs">
+                                            <a class="collapsed" data-toggle="collapse" href="#collapseEight" role="button" aria-expanded="false" aria-controls="collapseEight">
+                                                Why implants are costly?
+                                            </a>
+                                        </h5>
+                                    </div>
+
+                                    <!-- Card Content -->
+                                    <div id="collapseEight" class="collapse" role="tabpanel" aria-labelledby="headingEight" data-parent="#accordion">
+                                        <div class="card-body">
+
+                                            <p>There is no hiding the fact that dental implants are expensive but it is necessary to understand that the consumer is not buying a product but
+                                                rather a service Dental implants are “medical devices” implanted into living tissue. A dental implant has the potential to last a lifetime. This living
+                                                tissue also is home to nerves, blood vessels and sinuses. The placement of dental implants is both art and science.
+                                                When one considers all of the above factors, cost seems a little less important.
+                                            </p>
+
+                                        </div>
+                                    </div>
+
+                                </div>
+                                <!-- ACCORDION CARD #4 -->
+                                <div class="card no-border">
+
+                                    <!-- Card Title -->
+                                    <div class="card-header" role="tab" id="headingFour">
+                                        <h5 class="h5-xs">
+                                            <a class="collapsed" data-toggle="collapse" href="#collapseFour" role="button" aria-expanded="false" aria-controls="collapseFour">
+                                                Am I a candidate for dental implants?
+                                            </a>
+                                        </h5>
+                                    </div>
+
+                                    <!-- Card Content -->
+                                    <div id="collapseFour" class="collapse" role="tabpanel" aria-labelledby="headingFour" data-parent="#accordion">
+                                        <div class="card-body">
+
+                                            <!-- Text -->
+                                            <p>Anyone who is healthy enough to undergo a tooth extraction is likely a suitable candidate for dental implants. However, these are certain
+                                                contraindications that may complicate or prohibit implant treatment. Patients with certain conditions, such as chronic diseases, heavy smoking
+                                                or alcohol abuse may not be candidates for implants. Your doctor will determine whether or not this treatment is right for you after a complete
+                                                physical exam and evaluation of your medical history.
+                                            </p>
+
+                                        </div>
+                                    </div>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+
+
+                    <!-- SIDEBAR -->
+                    <aside id="sidebar" class="col-lg-4">
+
+
+                        <!-- TEXT WIDGET -->
+                        <div id="txt-widget" class="sidebar-div mb-50">
+
+                            <!-- Title -->
+
+
+
+                            <!-- Head of Clinic -->
+                            <div class="txt-widget-unit mb-15 clearfix d-flex align-items-center">
+
+                                <!-- Avatar -->
+                                <!-- <div class="txt-widget-avatar">
+                                    <img src="images/head-of-clinic.jpg" alt="testimonial-avatar">
+                                </div> -->
+
+                                <!-- Data -->
+                                <!-- <div class="txt-widget-data">
+                                    <h5 class="h5-md steelblue-color">Dr. Jonathan Barnes</h5>
+                                    <span>Chief Medical Officer, Founder</span>
+                                    <p class="blue-color">1-800-1234-567</p>
+                                </div> -->
+
+                            </div> <!-- End Head of Clinic -->
+
+                            <!-- Text -->
+                            <!-- <p class="p-sm">An enim nullam tempor sapien at gravida donec pretium ipsum porta justo
+                                integer at odiovelna vitae auctor integer congue magna purus
+                            </p> -->
+
+                            <!-- Button -->
+                            <!-- <a href="about.php" class="btn btn-blue blue-hover">Learn More</a> -->
+
+                        </div> <!-- END TEXT WIDGET -->
+
+
+                        <!-- SIDEBAR TABLE -->
+                        <div class="sidebar-table blue-table sidebar-div mb-50">
+
+                            <!-- Title -->
+                            <h5 class="h5-md">Working Time</h5>
+
+                            <!-- Text -->
+                            <!-- <p class="p-sm">Porta semper lacus cursus, feugiat primis ultrice ligula risus auctor at
+                                tempus feugiat dolor lacinia cursus nulla vitae massa
+                            </p> -->
+
+                            <!-- Table -->
+                            <table class="table">
+                                <tbody>
+                                    <tr>
+                                        <td>Mon – Sat</td>
+                                        <td> - </td>
+                                        <td class="text-right">11:00 AM - 09:00 PM</td>
+                                    </tr>
+
+
+
+
+                                    <tr class="last-tr">
+                                        <td>Sun</td>
+                                        <td>-</td>
+                                        <td class="text-right">CLOSED</td>
+                                    </tr>
+
+                                </tbody>
+                            </table>
+
+                            <!-- Title -->
+                            <h5 class="h5-xs">Need a personal health plan?</h5>
+
+                            <!-- Text -->
+
+
+
+                            <a href="#" class="btn btn-blue blue-hover">Visit Us</a>
+
+                        </div> <!-- END SIDEBAR TABLE -->
+
+
+                        <!-- SIDEBAR TIMETABLE -->
+
+
+
+
+                    </aside> <!-- END SIDEBAR -->
+
+
+                </div> <!-- End row -->
+            </div> <!-- End container -->
+        </section>
 
         <!-- TESTIMONIALS-2
 			============================================= -->
@@ -493,254 +735,8 @@
 
         <!-- FAQ -->
 
-        <section id="faqs-page" class="wide-80 faqs-section division">
-            <div class="container">
-                <h3 class="h3-md steelblue-color text-center">Frequently Asked Questions</h3>
-                <br>
-                <div class="row">
-
-                    <!-- QUESTIONS HOLDER -->
-                    <div class="col-lg-8">
-                        <div class="questions-holder pr-30">
-                            <!-- QUESTIONS ACCORDION -->
-                            <div id="accordion" role="tablist">
-
-
-
-                                <div class="card">
-
-                                    <!-- Card Title -->
-                                    <div class="card-header" role="tab" id="headingOne">
-                                        <h5 class="h5-xs">
-                                            <a data-toggle="collapse" href="#collapseOne" role="button" aria-expanded="true" aria-controls="collapseOne">
-                                                What age should my child be seen by an orthodontist?
-                                            </a>
-                                        </h5>
-                                    </div>
-
-                                    <!-- Card Content -->
-                                    <div id="collapseOne" class="collapse show" role="tabpanel" aria-labelledby="headingOne" data-parent="#accordion">
-                                        <div class="card-body">
-
-                                            <!-- Text -->
-                                            <p>The American Association of Orthodontists recommends that your ch ild be evaluated by age 7. Treatment at this time for certain
-                                                cases is advisable cause the jaws are just developing and growing and intervening at this time will cause benefits in future
-                                                treatment. Early detection of some orthodontic problems is important in order to take early corrective action and avoid more
-                                                difficult treatment later.
-                                            </p>
-
-                                        </div>
-                                    </div>
-
-                                </div> <!-- END ACCORDION CARD #1 -->
-
-
-                                <!-- ACCORDION CARD #2 -->
-                                <div class="card">
-
-                                    <!-- Card Title -->
-                                    <div class="card-header" role="tab" id="headingTwo">
-                                        <h5 class="h5-xs">
-                                            <a class="collapsed" data-toggle="collapse" href="#collapseTwo" role="button" aria-expanded="false" aria-controls="collapseTwo">
-                                                What is the length or duration of orthodontic treatment?
-                                            </a>
-                                        </h5>
-                                    </div>
-
-                                    <!-- Card Content -->
-                                    <div id="collapseTwo" class="collapse" role="tabpanel" aria-labelledby="headingTwo" data-parent="#accordion">
-                                        <div class="card-body">
-
-                                            <p>
-                                                Braces may be on between 6 months to 30 months, or longer depending on the age of the patient, the severity of the problem,
-                                                the patient’s cooperation, and the degree of movement possible.
-                                            </p>
-
-                                        </div>
-                                    </div>
-
-                                </div>
-                                <div class="card">
-
-                                    <!-- Card Title -->
-                                    <div class="card-header" role="tab" id="headingThree">
-                                        <h5 class="h5-xs">
-                                            <a class="collapsed" data-toggle="collapse" href="#collapseThree" role="button" aria-expanded="false" aria-controls="collapseThree">
-                                                How do I know if my child is in need of orthodontic treatment?
-                                            </a>
-                                        </h5>
-                                    </div>
-
-                                    <!-- Card Content -->
-                                    <div id="collapseThree" class="collapse" role="tabpanel" aria-labelledby="headingThree" data-parent="#accordion">
-                                        <div class="card-body">
-
-                                            <!-- Text -->
-                                            <p>It is usually difficult for you to determine if treatment is necessary because there are many problems that can occur even though
-                                                the front teeth look straight. Also, there are some problems that look intimidating and complex which will resolve on their own.
-                                                Our initial exam I can evaluate the case and we would be more than happy to see your child and make any recommendations
-                                                necessary.
-                                            </p>
-
-                                            <!-- List -->
-
-
-
-                                        </div>
-                                    </div>
-
-                                </div> <!-- END ACCORDION CARD #3 -->
-
-                                <div class="card">
-
-                                    <!-- Card Title -->
-                                    <div class="card-header" role="tab" id="headingEight">
-                                        <h5 class="h5-xs">
-                                            <a class="collapsed" data-toggle="collapse" href="#collapseEight" role="button" aria-expanded="false" aria-controls="collapseEight">
-                                                Can you be too old for braces?
-                                            </a>
-                                        </h5>
-                                    </div>
-
-                                    <!-- Card Content -->
-                                    <div id="collapseEight" class="collapse" role="tabpanel" aria-labelledby="headingEight" data-parent="#accordion">
-                                        <div class="card-body">
-
-                                            <p>No, age is not a factor, only the health of your gums and bone which support your teeth. About 25% of our orthodontic patients
-                                                are adults and that number is still growing!
-                                            </p>
-
-                                        </div>
-                                    </div>
-
-                                </div>
-                                <!-- ACCORDION CARD #4 -->
-                                <div class="card no-border">
-
-                                    <!-- Card Title -->
-                                    <div class="card-header" role="tab" id="headingFour">
-                                        <h5 class="h5-xs">
-                                            <a class="collapsed" data-toggle="collapse" href="#collapseFour" role="button" aria-expanded="false" aria-controls="collapseFour">
-                                                Will it hurt?
-                                            </a>
-                                        </h5>
-                                    </div>
-
-                                    <!-- Card Content -->
-                                    <div id="collapseFour" class="collapse" role="tabpanel" aria-labelledby="headingFour" data-parent="#accordion">
-                                        <div class="card-body">
-
-                                            <!-- Text -->
-                                            <p>Orthodontic treatment has improved dramatically. As a rule, braces make your teeth sore for a few days, but it is not painful. This
-                                                annoyance can be relieved with an over-the-counter pain reliever. Today’s braces are smaller, more comfortable and use
-                                                technology that reduces the discomfort. We use the latest in miniature braces and the highest quality of orthodontic materials in
-                                                order to reduce discomfort and treatment time.
-                                            </p>
-
-                                        </div>
-                                    </div>
-
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-
-
-                    <!-- SIDEBAR -->
-                    <aside id="sidebar" class="col-lg-4">
-
-
-                        <!-- TEXT WIDGET -->
-                        <div id="txt-widget" class="sidebar-div mb-50">
-
-                            <!-- Title -->
-
-
-
-                            <!-- Head of Clinic -->
-                            <div class="txt-widget-unit mb-15 clearfix d-flex align-items-center">
-
-                                <!-- Avatar -->
-                                <!-- <div class="txt-widget-avatar">
-                                    <img src="images/head-of-clinic.jpg" alt="testimonial-avatar">
-                                </div> -->
-
-                                <!-- Data -->
-                                <!-- <div class="txt-widget-data">
-                                    <h5 class="h5-md steelblue-color">Dr. Jonathan Barnes</h5>
-                                    <span>Chief Medical Officer, Founder</span>
-                                    <p class="blue-color">1-800-1234-567</p>
-                                </div> -->
-
-                            </div> <!-- End Head of Clinic -->
-
-                            <!-- Text -->
-                            <!-- <p class="p-sm">An enim nullam tempor sapien at gravida donec pretium ipsum porta justo
-                                integer at odiovelna vitae auctor integer congue magna purus
-                            </p> -->
-
-                            <!-- Button -->
-                            <!-- <a href="about.php" class="btn btn-blue blue-hover">Learn More</a> -->
-
-                        </div> <!-- END TEXT WIDGET -->
-
-
-                        <!-- SIDEBAR TABLE -->
-                        <div class="sidebar-table blue-table sidebar-div mb-50">
-
-                            <!-- Title -->
-                            <h5 class="h5-md">Working Time</h5>
-
-                            <!-- Text -->
-                            <!-- <p class="p-sm">Porta semper lacus cursus, feugiat primis ultrice ligula risus auctor at
-                                tempus feugiat dolor lacinia cursus nulla vitae massa
-                            </p> -->
-
-                            <!-- Table -->
-                            <table class="table">
-                                <tbody>
-                                    <tr>
-                                        <td>Mon – Sat</td>
-                                        <td> - </td>
-                                        <td class="text-right">11:00 AM - 09:00 PM</td>
-                                    </tr>
-
-
-
-
-                                    <tr class="last-tr">
-                                        <td>Sun</td>
-                                        <td>-</td>
-                                        <td class="text-right">CLOSED</td>
-                                    </tr>
-
-                                </tbody>
-                            </table>
-
-                            <!-- Title -->
-                            <h5 class="h5-xs">Need a personal health plan?</h5>
-
-                            <!-- Text -->
-
-
-
-                            <a href="#" class="btn btn-blue blue-hover">Visit Us</a>
-
-                        </div> <!-- END SIDEBAR TABLE -->
-
-
-                        <!-- SIDEBAR TIMETABLE -->
-
-
-
-
-                    </aside> <!-- END SIDEBAR -->
-
-
-                </div> <!-- End row -->
-            </div> <!-- End container -->
-        </section>
+     
+        
 
 
 
